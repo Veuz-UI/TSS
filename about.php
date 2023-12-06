@@ -31,7 +31,7 @@
 
   <div class="inner-banner-center">
     <h2 class="banner-head" data-aos="fade-up" data-aos-duration="3000">We Know the Middle <br>
-      East Better</h2>
+      East Better ggggggggggggggg</h2>
       <div class="d-flex justify-content-center aos-init aos-animate" data-aos="zoom-in" data-aos-duration="3000">
         <button type="button" class="main-home-btn">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
