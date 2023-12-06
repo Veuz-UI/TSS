@@ -282,6 +282,7 @@ a {
    background-color: #090B0B;
   transition: 1s;
   margin-top: 0px;
+  z-index: 99999;
 }
 
 .nav-box .nav-item:hover a {
@@ -421,7 +422,7 @@ a {
     transition: .5s;
 }
 
-.white-btn:hover .btn-svg-icon {
+.white-btn:hover+ .btn-svg-icon {
     stroke: black;
     transition: .5s;
 }
@@ -1546,6 +1547,8 @@ footer .nav-section-2 li {
 
 .vision-img-big {
     width: 600px;
+    height: 550px;
+    object-fit: cover;
 }
 
 .vision-img {
@@ -1553,7 +1556,7 @@ footer .nav-section-2 li {
 }
 
 .vision-dtls img {
-    width: 120px;
+    width: 100px;
     margin-bottom: 20px;
 }
 
@@ -2652,7 +2655,7 @@ font-weight: 700;
 }
 
 .timeline-row .horizontal-line {
-    border-top: 1px solid #aaa;
+    border-top: 2px solid #424242;
     width: calc(100% - 150px);
     margin: 0 auto;
     position: absolute;
@@ -2661,7 +2664,7 @@ font-weight: 700;
     z-index: 0;
     transform: translate(-50%, 0%);
 }
-.timeline-row .horizontal-line::before{
+/* .timeline-row .horizontal-line::before{
     width: 17px;
     height: 17px;
     background-color: #F6921E;
@@ -2670,13 +2673,31 @@ font-weight: 700;
     content: "";
     margin-top: -11px;
     left: -16px;
+} */
+.dot{
+    width: 17px;
+    height: 17px;
+    background-color: #F6921E;
+    position: absolute;
+    border-radius: 10px;
+    margin-top: -8px;
+    left: 58px;
+}
+.dot2 {
+    width: 17px;
+    height: 17px;
+    background-color: #F6921E;
+    position: absolute;
+    border-radius: 10px;
+    left: -7px;
+    bottom: 61px;
 }
 
 .timeline-row .verticle-line {
     margin: 0;
     padding: 0;
     width: auto;
-    border-right: 1px solid #aaa;
+    border-right: 2px solid #424242;
     height: calc(100% - 150px);
     position: absolute;
     top: 0;
@@ -2692,11 +2713,11 @@ font-weight: 700;
 
 .corner {
     position: absolute;
-    border-right: 1px solid #aaa;
+    border-right: 2px solid #424242;
     width: 76px;
     height: 76px;
     right: 0;
-    border-top: 1px solid #aaa;
+    border-top: 2px solid #424242;
     top: 74.9px;
     border-radius: 0 70px 0 0;
     top: 0;
@@ -2705,7 +2726,7 @@ font-weight: 700;
 .timeline-row:nth-child(2n+2) .corner {
     right: inherit;
     left: 0;
-    border-left: 1px solid #aaa;
+    border-left: 2px solid #424242;
     border-right: 0;
     border-radius: 70px 0 0 0;
 }
@@ -2715,7 +2736,7 @@ font-weight: 700;
     top: inherit;
     border-radius: 0;
     border-top: 0;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 2px solid #424242;
     border-radius: 0 0 70px 0;
     right: 0;
     z-index: 1;
@@ -2725,7 +2746,7 @@ font-weight: 700;
 .timeline-row:nth-child(2n+2) .corner {
     right: inherit;
     left: 0;
-    border-left: 1px solid #aaa;
+    border-left: 2px solid #424242;
     border-right: 0;
     border-radius: 70px 0 0 0;
 }

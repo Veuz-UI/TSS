@@ -233,6 +233,7 @@
            </div>
               </div>
           <div class="horizontal-line"></div>
+          <div class="dot"></div>
           <div class="verticle-line"></div>
           <div class="corner top"></div>
           <div class="corner bottom"></div>	
@@ -283,8 +284,10 @@
                 </div>
             <div class="horizontal-line"></div>
             <div class="verticle-line"></div>
+           
             <div class="corner top"></div>
             <div class="corner bottom"></div>	
+            <div class="dot2"></div>
                 </div>
 
             </div>	

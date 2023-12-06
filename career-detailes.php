@@ -102,13 +102,13 @@
         </div>
       </div>
       <div class="col-lg-12 text-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
-        <button type="button" class="main-home-btn mt-4">
+        <a href="#contact-form"><button type="button" class="main-home-btn mt-4">
           Applay Now
-        </button>
+        </button></a>
       </div>
     </div>
     <div class="brdr-btm padng-btm-line"></div>
-    <div class="container">
+    <div class="container" id="contact-form">
     <h5 class="form-detail-head text-center mt-5  aos-animate" data-aos="fade-up" data-aos-duration="1000">Hey let's get to know</h5>
     <div class="row  aos-animate" data-aos="fade-up" data-aos-duration="1000">
       <div class="col-md-4">

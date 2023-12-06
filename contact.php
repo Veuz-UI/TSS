@@ -85,9 +85,10 @@
             </div>
           </div>
           <div class="col-lg-12 text-center mt-40">
-            <button type="button" class="main-btn">
+            <a href="#contact-form"><button type="button" class="main-btn">
               Applay Now
             </button>
+          </a>
           </div>
         </div>
         
@@ -210,6 +211,7 @@
         </div>
       </div>
      </div>
+     <div id="contact-form">
      <div class="container">
       <h5 class="form-detail-head text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Start a Conversation</h5>
       <p class="main-para text-center  aos-animate" data-aos="fade-up" data-aos-duration="1000">
@@ -290,6 +292,7 @@
         </button>
       </div>
     </div>
+  </div>
    </section>
 
   <footer>
