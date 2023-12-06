@@ -356,6 +356,23 @@ Specialists can also easily remove vinyl vehicle wraps without damaging the vehi
 
     })
   </script>
+    <script>
+    $(function(){
+ var pageScroll = 100;
+  $(window).scroll(function() {
+    var scroll = getCurrentScroll();
+      if ( scroll >= pageScroll ) {
+           $('.nav-box').addClass('fixed');
+        }
+        else {
+            $('.nav-box').removeClass('fixed');
+        }
+  });
+function getCurrentScroll() {
+    return window.pageYOffset || document.documentElement.scrollTop;
+    }
+});
+  </script>
 </body>
 
 </html>
