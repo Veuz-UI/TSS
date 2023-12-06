@@ -31,7 +31,7 @@
 
   <div class="inner-banner-center">
     <h2 class="banner-head" data-aos="fade-up" data-aos-duration="3000">We Know the Middle <br>
-      East Better ggggggggggggggg</h2>
+      East Better</h2>
       <div class="d-flex justify-content-center aos-init aos-animate" data-aos="zoom-in" data-aos-duration="3000">
         <button type="button" class="main-home-btn">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -43,7 +43,7 @@
             <rect width="24" height="24" fill="white"/>
             </clipPath>
             </defs>
-            </svg><span>who we are</span> 
+            </svg><span>who we are</span>
         </button>
         <button type="button" class="white-btn">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" class="btn-svg-icon" >
@@ -73,16 +73,16 @@
             <div class="col-lg-12">
               <div class="pad-bt">
               <div class="d-flex align-items-center justify-content-center flex-column">
-                <h3 class="count abt-count-no-2" data-number="250"></h3>
-                <h6 class="abt-count-contnt contnt-2">Live projects</h6>
+                <h3 class="count abt-count-no-2" data-number="30"></h3>
+                <h6 class="abt-count-contnt contnt-2">Countries</h6>
               </div>
             </div>
             </div>
             <div class="col-lg-12">
               <div class="border-tp">
               <div class="d-flex align-items-center justify-content-center flex-column">
-                <h3 class="count abt-count-no-2" data-number="250"></h3>
-                <h6 class="abt-count-contnt contnt-2">Live projects</h6>
+                <h3 class="count abt-count-no-2" data-number="99"></h3>
+                <h6 class="abt-count-contnt contnt-2">Client satisfaction rate</h6>
               </div>
             </div>
             </div>
@@ -184,7 +184,7 @@
         ever since the 1500s,Lorem Ipsum is simply 
       </p>
       <div class="wrapper inner-wrapper-padding ">
-    
+
         <div class="timeline-main">
           <div class="timeline-row">
             <div class="timeline-box img-right timeline-content-img">
@@ -284,7 +284,6 @@
                 </div>
             <div class="horizontal-line"></div>
             <div class="verticle-line"></div>
-           
             <div class="corner top"></div>
             <div class="corner bottom"></div>	
             <div class="dot2"></div>
@@ -354,7 +353,7 @@
   </section>
   <section class="padding-bottom">
     <div class="container">
-      <h3 class="inner-sub-heading">Our Team</h3>
+      <h3 class="inner-sub-heading aos-animate" data-aos="fade-up" data-aos-duration="1000">Our Team</h3>
       <div class="row aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <div class="col-lg-3">
           <div class="our-team-box">
@@ -443,7 +442,7 @@
   </section>
   <section>
     <div class="container">
-      <h3 class="inner-sub-heading">Recent Team Activities</h3>
+      <h3 class="inner-sub-heading aos-animate" data-aos="fade-up" data-aos-duration="1000">Recent Team Activities</h3>
       <div class="row aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <div class="col-lg-4">
           <div class="row">

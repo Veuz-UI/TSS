@@ -93,7 +93,7 @@
         <div class="tab-pane fade show active" id="ex1-tabs-1" role="tabpanel" aria-labelledby="ex1-tab-1">
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -102,7 +102,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -113,7 +113,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -122,7 +122,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -131,7 +131,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -142,7 +142,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -151,7 +151,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -165,7 +165,7 @@
         <div class="tab-pane fade" id="ex1-tabs-2" role="tabpanel" aria-labelledby="ex1-tab-2">
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -174,7 +174,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -185,7 +185,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -194,7 +194,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -203,7 +203,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -214,7 +214,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -223,7 +223,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -237,7 +237,7 @@
         <div class="tab-pane fade" id="ex1-tabs-3" role="tabpanel" aria-labelledby="ex1-tab-3">
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -246,7 +246,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -257,7 +257,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -266,7 +266,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -275,7 +275,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -286,7 +286,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -295,7 +295,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -309,7 +309,7 @@
         <div class="tab-pane fade" id="ex1-tabs-4" role="tabpanel" aria-labelledby="ex1-tab-4">
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -318,7 +318,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -329,7 +329,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -338,7 +338,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -347,7 +347,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -358,7 +358,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -367,7 +367,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -381,7 +381,7 @@
         <div class="tab-pane fade" id="ex1-tabs-5" role="tabpanel" aria-labelledby="ex1-tab-5">
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -390,7 +390,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -401,7 +401,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -410,7 +410,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -419,7 +419,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -430,7 +430,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -439,7 +439,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -453,7 +453,7 @@
         <div class="tab-pane fade" id="ex1-tabs-6" role="tabpanel" aria-labelledby="ex1-tab-6">
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -462,7 +462,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -473,7 +473,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -482,7 +482,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -491,7 +491,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -502,7 +502,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -511,7 +511,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -523,9 +523,10 @@
           </div>
         </div>
         <div class="tab-pane fade" id="ex1-tabs-7" role="tabpanel" aria-labelledby="ex1-tab-7">
+
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-1.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -534,7 +535,7 @@
               </div>
             </div>
             <div class="col-lg-8 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-2.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -545,7 +546,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-3.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -554,7 +555,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-4.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -563,7 +564,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-5.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -574,7 +575,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-lg-8 aos-animate" data-aos="fade-right" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-6.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -583,7 +584,7 @@
               </div>
             </div>
             <div class="col-lg-4 aos-animate" data-aos="fade-left" data-aos-duration="1000">
-              <div class="portfolio-box-img">
+              <div class="portfolio-box-img container__img-holder">
                 <img src="img/portfolio/portfolio-7.png" alt="" class="img-fluid">
               </div>
               <div class="porflio-cntnt">
@@ -719,6 +720,33 @@
 function getCurrentScroll() {
     return window.pageYOffset || document.documentElement.scrollTop;
     }
+});
+  </script>
+  <script>
+    $(document).ready(function() {
+
+// required elements
+var imgPopup = $('.img-popup');
+var imgCont  = $('.container__img-holder');
+var popupImage = $('.img-popup img');
+var closeBtn = $('.close-btn');
+
+// handle events
+imgCont.on('click', function() {
+  var img_src = $(this).children('img').attr('src');
+  imgPopup.children('img').attr('src', img_src);
+  imgPopup.addClass('opened');
+});
+
+$(imgPopup, closeBtn).on('click', function() {
+  imgPopup.removeClass('opened');
+  imgPopup.children('img').attr('src', '');
+});
+
+popupImage.on('click', function(e) {
+  e.stopPropagation();
+});
+
 });
   </script>
 </body>

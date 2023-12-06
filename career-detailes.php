@@ -154,27 +154,35 @@
         <h5 class="form-head">Educational Qualifications *</h5>
         <div class="main-forms">
           <select id="cars" name="cars">
-            <option value="volvo">Please Select Your Basic Education</option>
-            <option value="saab">Please Select Your Basic Education</option>
-            <option value="fiat">Please Select Your Basic Education</option>
-            <option value="audi">Please Select Your Basic Education</option>
+            <option value="1">Please Select Your Basic Education</option>
+            <option value="2">Please Select Your Basic Education</option>
+            <option value="3">Please Select Your Basic Education</option>
+            <option value="4">Please Select Your Basic Education</option>
           </select>
         </div>
         <div class="main-forms">
           <textarea name="" id="" cols="30" rows="10" placeholder="Your Key Skills"></textarea>
         </div>
-        <h5 class="form-head">Educational Qualifications *</h5>
+        <h5 class="form-head">General</h5>
         <div class="main-forms">
           <select id="cars" name="cars">
-            <option value="volvo">How did you hear about us?</option>
-            <option value="saab">Please Select Your Basic Education</option>
-            <option value="fiat">Please Select Your Basic Education</option>
-            <option value="audi">Please Select Your Basic Education</option>
+            <option value="1">How did you hear about us?</option>
+            <option value="2">How did you hear about us?</option>
+            <option value="3">How did you hear about us?</option>
+            <option value="4">How did you hear about us?</option>
           </select>
         </div>
-        <div class="main-forms">
-          <textarea name="" id="" cols="30" rows="10" placeholder="Your Key Skills"></textarea>
-        </div>
+        <div class="avatar-upload">
+          <div class="avatar-edit">
+              <input type='file' id="imageUpload" accept=".png, .jpg, .jpeg" />
+              <label for="imageUpload" class="upload-label"> <span><img src="img/upload.svg" alt=""></span>Drag to upload your resume, or brows</label>
+          </div>
+          <div class="avatar-preview">
+              <div id="imagePreview" class="form-upload-bg">
+              </div>
+          </div>
+          <h6 class="upload-type">Allowed type: pdf, docs, docx</h6>
+      </div>
       </div>
     </div>
     <div class="col-lg-12 text-center  aos-animate" data-aos="fade-up" data-aos-duration="1000">
@@ -308,6 +316,25 @@
 function getCurrentScroll() {
     return window.pageYOffset || document.documentElement.scrollTop;
     }
+});
+  </script>
+  <script>
+    function readURL(input) {
+    if (input.files && input.files[0]) {
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            $("#imagePreview").css(
+                "background-image",
+                "url(" + e.target.result + ")"
+            );
+            $("#imagePreview").hide();
+            $("#imagePreview").fadeIn(650);
+        };
+        reader.readAsDataURL(input.files[0]);
+    }
+}
+$("#imageUpload").change(function () {
+    readURL(this);
 });
   </script>
 </body>

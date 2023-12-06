@@ -40,7 +40,7 @@
             <rect width="24" height="24" fill="white"/>
             </clipPath>
             </defs>
-            </svg><span>who we are</span> 
+            </svg><span>who we are</span>
         </button>
         <button type="button" class="white-btn">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -58,7 +58,7 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 d-flex justify-content-center aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
           <div class="servic-sec-des">
-            <img src="img/servc-main.png" alt="" class="img-fluid">
+            <img src="img/servc-inner.png" alt="" class="img-fluid">
           </div>
         </div>
         <div class="col-lg-6 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
@@ -98,7 +98,7 @@
             <h5 class="servc-list-head">
               Event Organizer
             </h5>
-            <a href="">
+            <a href="service-detail.html">
             <button type="button" class="srvc-btn">
               Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
             </button>
@@ -112,7 +112,7 @@
             <h5 class="servc-list-head">
               Gondolas
             </h5>
-            <a href="">
+            <a href="service-detail.html">
             <button type="button" class="srvc-btn">
               Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
             </button>
@@ -126,7 +126,7 @@
               <h5 class="servc-list-head">
                 Vehicle Branding
               </h5>
-              <a href="">
+              <a href="service-detail.html">
               <button type="button" class="srvc-btn">
                 Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
               </button>
@@ -141,7 +141,7 @@
             <h5 class="servc-list-head">
               Exibition Stand Biulder
             </h5>
-            <a href="">
+            <a href="service-detail.html">
             <button type="button" class="srvc-btn">
               Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
             </button>
@@ -155,7 +155,7 @@
             <h5 class="servc-list-head">
               Signages
             </h5>
-            <a href="">
+            <a href="service-detail.html">
             <button type="button" class="srvc-btn">
               Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
             </button>
@@ -168,7 +168,7 @@
           <h5 class="servc-list-head">
             Mall Activations
           </h5>
-          <a href="">
+          <a href="service-detail.html">
           <button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button>
@@ -183,7 +183,7 @@
           <h5 class="servc-list-head">
             Display Stand manufacturer
           </h5>
-          <a href=""><button type="button" class="srvc-btn">
+          <a href="service-detail.html"><button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button></a>
         </div>
@@ -194,7 +194,7 @@
           <h5 class="servc-list-head">
             Indoor and Outdoor Branding
           </h5>
-          <a href=""><button type="button" class="srvc-btn">
+          <a href="service-detail.html"><button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button></a>
         </div>
@@ -206,7 +206,7 @@
           <h5 class="servc-list-head">
             Flag, Pop Up, Roll Up
           </h5>
-          <a href=""><button type="button" class="srvc-btn">
+          <a href="service-detail.html"><button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button></a>
         </div>
@@ -220,7 +220,7 @@
           <h5 class="servc-list-head">
             Premium Pods
           </h5>
-          <a href=""><button type="button" class="srvc-btn">
+          <a href="service-detail.html"><button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button></a>
         </div>
@@ -231,7 +231,7 @@
           <h5 class="servc-list-head">
             Fabric Printing
           </h5>
-          <a href=""><button type="button" class="srvc-btn">
+          <a href="service-detail.html"><button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button></a>
         </div>
@@ -242,7 +242,7 @@
           <h5 class="servc-list-head">
             Indoor and Outdoor Branding
           </h5>
-          <a href=""><button type="button" class="srvc-btn">
+          <a href="service-detail.html"><button type="button" class="srvc-btn">
             Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
           </button></a>
         </div>
