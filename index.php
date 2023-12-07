@@ -143,44 +143,55 @@
       </div>
       <div class="row gx-5">
         <div class="col-lg-4">
+          <a href="service.php">
           <div class="bouquet-box">
             <div class="overlay">Marketing Communications</div>
             <img src="img/bq-img-1.png" alt="" class="img-fluid">
           </div>
+        </a>
         </div>
 
         <div class="col-lg-4">
+          <a href="service.php">
           <div class="bouquet-box">
             <div class="overlay">Event Management</div>
             <img src="img/bq-img-2.png" alt="" class="img-fluid">
           </div>
+        </a>
         </div>
 
         <div class="col-lg-4">
-          <div class="bouquet-box">
-            <div class="overlay">Fabrication & Support Services</div>
-            <img src="img/bq-img-3.png" alt="" class="img-fluid">
-          </div>
+          <a href="service.php">
+            <div class="bouquet-box">
+              <div class="overlay">Fabrication & Support Services</div>
+              <img src="img/bq-img-3.png" alt="" class="img-fluid">
+            </div>
+          </a>
         </div>
         <div class="col-lg-4">
+          <a href="service.php"></a>
           <div class="bouquet-box">
             <div class="overlay">Signages</div>
             <img src="img/bq-img-4.png" alt="" class="img-fluid">
           </div>
+          
         </div>
        
         <div class="col-lg-4">
+          <a href="service.php">
           <div class="bouquet-box">
             <div class="overlay">Branding Solutions</div>
             <img src="img/bq-img-5.png" alt="" class="img-fluid">
           </div>
+        </a>
         </div>
 
         <div class="col-lg-4">
           <div class="bouquet-box">
-            <div class="overlay">Technology Solutions</div>
-            <img src="img/bq-img-6.png" alt="" class="img-fluid">
-          </div>
+          <a href="service.php"></a>
+          <div class="overlay">Technology Solutions</div>
+          <img src="img/bq-img-6.png" alt="" class="img-fluid">
+        </div>
         </div>
       </div>
      
@@ -540,9 +551,11 @@
           </div>
         </div>
         <div class="event-box5">
+          <a href="event-listing.php">
           <button type="button" class="main-home-btn">
             View More
           </button>
+        </a>
         </div>
       </div>
       <div class="event-div">
@@ -568,9 +581,11 @@
           </div>
         </div>
         <div class="event-box5">
-          <button type="button" class="main-home-btn">
-            View More
-          </button>
+          <a href="event-listing.php">
+            <button type="button" class="main-home-btn">
+              View More
+            </button>
+          </a>
         </div>
       </div>
       <div class="event-div">
@@ -596,9 +611,11 @@
           </div>
         </div>
         <div class="event-box5">
-          <button type="button" class="main-home-btn">
-            View More
-          </button>
+          <a href="event-listing.php">
+            <button type="button" class="main-home-btn">
+              View More
+            </button>
+          </a>
         </div>
       </div>
       <div class="d-flex justify-content-center mt-5">
