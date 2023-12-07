@@ -66,8 +66,8 @@
           vision to be a leader globally in the businesses we operate <br> by empowering our customers and enriching the
           lives of people, and with a mission meant to provide solutions to empower and enrich people and organizations
         </p>
-        <div class="d-flex justify-content-between" >
-          <div class="d-flex" data-aos="fade-right" data-aos-duration="1000">
+        <div class="d-flex justify-content-between flex-column flex-md-row" >
+          <div class="d-flex flex-column flex-md-row" data-aos="fade-right" data-aos-duration="1000">
             <div class="d-flex align-items-center succes-boxes">
               <img src="img/expertise.svg" alt="" class="img-fluid">
               <h6>EXPERTISE</h6>
@@ -106,8 +106,8 @@
               <img src="img/abt-image-2.png" alt="" class="img-fluid ">
             </div>
           </div>
-          <a href="javascript:void(0)" id="video1">
-          <div class="video-main">
+          <a>
+          <div class="video-main btn-wizard-open">
             <div class="promo-video">
               <div class="waves-block">
                 <div class="waves wave-1"></div>
@@ -115,20 +115,22 @@
                 <div class="waves wave-3"></div>
               </div>
             </div>
-            <a href="" class="video video-popup mfp-iframe" data-lity><img src="img/play-circle.svg" alt=""
+            <a class="video video-popup mfp-iframe" data-lity><img src="img/play-circle.svg" alt=""
                 class="img-fluid"></a>
           </div>
         </a>
-      \
         </div>
 
       </div>
 
     </div>
   </section>
+
+
+
   <section class="section-padding bouquet-bg">
     <div class="container" data-aos="fade-up" data-aos-duration="3000">
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-between flex-column flex-md-row">
         <h4 class="bouquet-head">
           Our Bouquet of Services
         </h4>
@@ -199,7 +201,7 @@
   </section>
   <section class="section-padding">
     <div class="container" data-aos="fade-up" data-aos-duration="1000">
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-between flex-md-row flex-column">
         <h3 class="section-heading">Our Portfolio</h3>
         <a href="portfolio.php">
           <button class="btn1">
@@ -627,7 +629,7 @@
   </section>
   <section class="section-padding">
     <div class="container" data-aos="fade-up" data-aos-duration="3000">
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-between flex-column flex-md-row">
         <h3 class="section-heading">Find out what's <br>
           happening <span>@ TSS</span></h3>
         <button class="btn1 btn-width2">
@@ -779,6 +781,23 @@
 
   <?php include 'footer.php';?>
 
+
+
+
+<!-- video popup -->
+  <div class="video-overly">
+    <div class="video-popup-box">
+      <video autoplay muted loop id="myVideo">
+        <source src="https://www.w3schools.com/howto/rain.mp4" type="video/mp4">
+      </video>
+      <span class="close-icon">
+        <i class="fa fa-times-circle-o" aria-hidden="true"></i>
+      </span>
+    </div>
+  </div>
+
+
+
   <script src="https://kit.fontawesome.com/16b0815225.js" crossorigin="anonymous"></script>
   <script src="js/bootstrap.bundle.min.js"></script>
   <script src="js/jquery.min.js"></script>
@@ -787,14 +806,16 @@
   <script>
       AOS.init({disable: 'mobile'});
   </script>
-  <script>
-    $(function () {
-      setTimeout(function () {
-        $(".loader-mask").hide();
-      }, 2000)
 
-    })
-  </script>
+<script>
+  $(function () {
+    setTimeout(function () {
+      $(".loader-mask").hide();
+    }, 2000)
+
+  })
+</script>
+
   <script>
       $(document).ready(function () {
           $(".owl-carousel").owlCarousel();
@@ -874,6 +895,18 @@ function getCurrentScroll() {
     }
 });
   </script>
+
+
+<script>
+  $(document).ready(function(){
+    $(".close-icon").click(function(){
+      $(".video-overly").hide();
+    });
+    $(".btn-wizard-open").click(function(){
+      $(".video-overly").show();
+    });
+  });
+</script>
 </body>
 
 </html>
