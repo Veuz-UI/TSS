@@ -66,8 +66,8 @@
           vision to be a leader globally in the businesses we operate <br> by empowering our customers and enriching the
           lives of people, and with a mission meant to provide solutions to empower and enrich people and organizations
         </p>
-        <div class="d-flex justify-content-between" >
-          <div class="d-flex" data-aos="fade-right" data-aos-duration="1000">
+        <div class="d-flex justify-content-between flex-column flex-md-row" >
+          <div class="d-flex flex-column flex-md-row" data-aos="fade-right" data-aos-duration="1000">
             <div class="d-flex align-items-center succes-boxes">
               <img src="img/expertise.svg" alt="" class="img-fluid">
               <h6>EXPERTISE</h6>
@@ -130,7 +130,7 @@
 
   <section class="section-padding bouquet-bg">
     <div class="container" data-aos="fade-up" data-aos-duration="3000">
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-between flex-column flex-md-row">
         <h4 class="bouquet-head">
           Our Bouquet of Services
         </h4>
@@ -190,7 +190,7 @@
   </section>
   <section class="section-padding">
     <div class="container" data-aos="fade-up" data-aos-duration="1000">
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-between flex-md-row flex-column">
         <h3 class="section-heading">Our Portfolio</h3>
         <a href="portfolio.php">
           <button class="btn1">
@@ -612,7 +612,7 @@
   </section>
   <section class="section-padding">
     <div class="container" data-aos="fade-up" data-aos-duration="3000">
-      <div class="d-flex justify-content-between">
+      <div class="d-flex justify-content-between flex-column flex-md-row">
         <h3 class="section-heading">Find out what's <br>
           happening <span>@ TSS</span></h3>
         <button class="btn1 btn-width2">

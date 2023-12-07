@@ -3781,3 +3781,109 @@ margin-top: 5px;
 
   }
 
+  @media screen and (min-width:100px) and (max-width:766px) {
+    .video-main {
+        left: 0px;
+    }
+    .home-main-cntnt h2 {
+        font-size: 40px;
+    }
+    .home-main-cntnt {
+        top: 36%;
+        left: 8%;
+        transform: translate(0px, 0px);
+    }
+    .abt-content h2 {
+        font-size: 35px;
+    }
+    .abt-content h2 br{
+        display: none;
+    }
+    .main-home-btn {
+        padding: 0px 22px;
+    }
+    .white-btn {
+        padding: 0px 20px;
+    }
+    .btn1 .circle .icon.arrow {
+        left: 0.3rem;
+    }
+    .abt-imgs {
+        margin-top: 20px;
+    }
+    .bouquet-head {
+        font-size: 35px;
+    }
+    .bouquet-box .overlay {
+        font-size: 17px;
+    }
+    .marquee-item {
+        width: 100%;
+    }
+    .marquee2 .marquee-item {
+        width: 100%;
+    }
+    .testimonial-div h3 {
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 42px;
+    }
+    .testimonial-div h3 br{
+        display: none;
+    }
+    .event-div .event-box1 {
+        width: 100%;
+    }
+    .event-div {
+        padding: 30px 20px;
+    }
+    .event-div .event-box2 {
+        width: 100%;
+        border-right: none;
+        padding: 0px;
+    }
+    .event-box3 {
+        width: 100%;
+        border-right: none;
+        justify-content: start;
+    }
+    .event-div {
+        display: block;
+    }
+    .event-box4 {
+        width: 100%;
+        border-right: none;
+        border-top: 1px solid #ebebeb;
+        margin-top: 20px;
+    }
+    .event-box5 {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    .event-box4 .location {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .event-div .event-box1 {
+        width: 100%;
+        padding: 22px;
+        margin-bottom: 30px;
+    }
+    .section-heading {
+        font-size: 35px;
+    }
+    .banner-head {
+        font-size: 35px;
+        margin-bottom: 28px;
+    }
+    .banner-head br{
+      display: none !important;
+    }
+    .inner-sub-heading {
+        font-size: 35px;
+    }
+  }
+
