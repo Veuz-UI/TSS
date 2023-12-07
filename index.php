@@ -36,12 +36,16 @@
             To be noticed</h2>
           <p data-aos="zoom-in" data-aos-duration="3000">The Fastest Growing Indoor and Outdoor Advertising Agency in the Middle East.</p>
           <div class="d-flex" data-aos="zoom-in" data-aos-duration="3000">
+            <a href="about.php">
             <button type="button" class="main-home-btn">
               who we are
             </button>
+            </a>
+            <a href="portfolio.php">
             <button type="button" class="white-btn">
               <span>our works</span> 
             </button>
+            </a>
           </div>
         </div>
       </div>
@@ -81,12 +85,14 @@
               <h6>EFFICIENCY</h6>
             </div>
           </div>
+          <a href="about.php">
           <button class="btn1 mt-20" data-aos="fade-left" data-aos-duration="1000">
             <span class="circle" aria-hidden="true">
             <span class="icon arrow"></span>
             </span>
             <span class="button-text">FIND OUT MORE</span>
           </button>
+        </a>
         </div>
         <div class="row vdo-hover" data-aos="fade-up" data-aos-duration="1000">
           <div class="col-lg-4">
@@ -100,6 +106,7 @@
               <img src="img/abt-image-2.png" alt="" class="img-fluid ">
             </div>
           </div>
+          <a href="javascript:void(0)" id="video1">
           <div class="video-main">
             <div class="promo-video">
               <div class="waves-block">
@@ -111,6 +118,8 @@
             <a href="" class="video video-popup mfp-iframe" data-lity><img src="img/play-circle.svg" alt=""
                 class="img-fluid"></a>
           </div>
+        </a>
+      \
         </div>
 
       </div>
@@ -123,12 +132,14 @@
         <h4 class="bouquet-head">
           Our Bouquet of Services
         </h4>
-        <button class="btn1 btn-width1">
-          <span class="circle" aria-hidden="true">
-          <span class="icon arrow"></span>
-          </span>
-          <span class="button-text">VIEW ALL SERVICES</span>
-        </button>
+        <a href="service.php">
+          <button class="btn1 btn-width1">
+            <span class="circle" aria-hidden="true">
+            <span class="icon arrow"></span>
+            </span>
+            <span class="button-text">VIEW ALL SERVICES</span>
+          </button>
+        </a>
       </div>
       <div class="row gx-5">
         <div class="col-lg-4">
@@ -179,12 +190,14 @@
     <div class="container" data-aos="fade-up" data-aos-duration="1000">
       <div class="d-flex justify-content-between">
         <h3 class="section-heading">Our Portfolio</h3>
-        <button class="btn1">
-          <span class="circle" aria-hidden="true">
-          <span class="icon arrow"></span>
-          </span>
-          <span class="button-text">VIEW ALL WORKS</span>
-        </button>
+        <a href="portfolio.php">
+          <button class="btn1">
+            <span class="circle" aria-hidden="true">
+            <span class="icon arrow"></span>
+            </span>
+            <span class="button-text">VIEW ALL WORKS</span>
+          </button>
+        </a>
       </div>
     </div>
     <div class="container-fluid marqs">
@@ -618,12 +631,14 @@
               <p>Lorem ipsum dolor sit amet consecteturing adipisicing elit. Maxime mollitia,
                 molestiae quas vel sint commodi repud iandae consequuntur voluptatum laborum
                 numquam blanditiis harum quisquam.</p>
+                <a href="blog.php">
                 <button class="btn1 btn2">
                   <span class="circle" aria-hidden="true">
                   <span class="icon arrow"></span>
                   </span>
                   <span class="button-text">LEARN MORE</span>
                 </button>
+              </a>
             </div>
           </div>
         </div>
@@ -636,12 +651,14 @@
               <p>Lorem ipsum dolor sit amet consecteturing adipisicing elit. Maxime mollitia,
                 molestiae quas vel sint commodi repud iandae consequuntur voluptatum laborum
                 numquam blanditiis harum quisquam.</p>
-                <button class="btn1 btn2">
-                  <span class="circle" aria-hidden="true">
-                  <span class="icon arrow"></span>
-                  </span>
-                  <span class="button-text">LEARN MORE</span>
-                </button>
+                <a href="blog.php">
+                  <button class="btn1 btn2">
+                    <span class="circle" aria-hidden="true">
+                    <span class="icon arrow"></span>
+                    </span>
+                    <span class="button-text">LEARN MORE</span>
+                  </button>
+                </a>
             </div>
           </div>
         </div>
@@ -654,12 +671,14 @@
               <p>Lorem ipsum dolor sit amet consecteturing adipisicing elit. Maxime mollitia,
                 molestiae quas vel sint commodi repud iandae consequuntur voluptatum laborum
                 numquam blanditiis harum quisquam.</p>
-                <button class="btn1 btn2">
-                  <span class="circle" aria-hidden="true">
-                  <span class="icon arrow"></span>
-                  </span>
-                  <span class="button-text">LEARN MORE</span>
-                </button>
+                <a href="blog.php">
+                  <button class="btn1 btn2">
+                    <span class="circle" aria-hidden="true">
+                    <span class="icon arrow"></span>
+                    </span>
+                    <span class="button-text">LEARN MORE</span>
+                  </button>
+                </a>
             </div>
           </div>
         </div>
