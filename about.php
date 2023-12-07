@@ -117,7 +117,7 @@
             <img src="img/about-vedio-img-2.png" alt="" class="img-fluid ">
           </div>
         </div>
-        <div class="video-main">
+        <div class="video-main btn-wizard-open">
           <div class="promo-video">
             <div class="waves-block">
               <div class="waves wave-1"></div>
@@ -125,7 +125,8 @@
               <div class="waves wave-3"></div>
             </div>
           </div>
-          <a href="" class="video video-popup mfp-iframe" data-lity=""><img src="img/play-circle.svg" alt="" class="img-fluid"></a>
+          <a class="video video-popup mfp-iframe" data-lity><img src="img/play-circle.svg" alt=""
+              class="img-fluid"></a>
         </div>
       </div>
     </div>
@@ -564,6 +565,19 @@
   </section>
   <?php include 'footer.php';?>
 
+
+  <!-- video popup -->
+  <div class="video-overly">
+    <div class="video-popup-box">
+      <video autoplay muted loop id="myVideo">
+        <source src="https://www.w3schools.com/howto/rain.mp4" type="video/mp4">
+      </video>
+      <span class="close-icon">
+        <i class="fa fa-times-circle-o" aria-hidden="true"></i>
+      </span>
+    </div>
+  </div>
+
   <script src="https://kit.fontawesome.com/16b0815225.js" crossorigin="anonymous"></script>
   <script src="js/bootstrap.bundle.min.js"></script>
   <script src="js/jquery.min.js"></script>
@@ -683,6 +697,17 @@ let stop =setInterval(function(){
       }
   });
     </script>
+
+<script>
+  $(document).ready(function(){
+    $(".close-icon").click(function(){
+      $(".video-overly").hide();
+    });
+    $(".btn-wizard-open").click(function(){
+      $(".video-overly").show();
+    });
+  });
+</script>
 </body>
 
 </html>
