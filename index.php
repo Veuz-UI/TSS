@@ -896,6 +896,13 @@ function getCurrentScroll() {
 });
   </script>
 
+  <!-- <script>
+  document.getElementById('test').addEventListener('change', function () {
+    var style = this.value == 1 ? 'block' : 'none';
+    document.getElementById('hidden_div').style.display = style;
+});
+</script> -->
+
 
 <script>
   $(document).ready(function(){
@@ -906,6 +913,18 @@ function getCurrentScroll() {
       $(".video-overly").show();
     });
   });
+</script>
+<script>
+  $(document).on('change','.sccope-work',function()
+  {
+    $('#hidden_div').hide();
+    var id = $(this).val();
+    
+    if(id ==5)
+    {
+      $('#hidden_div').show();
+    }
+  })
 </script>
 </body>
 

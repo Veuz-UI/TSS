@@ -305,7 +305,6 @@ a {
     position: relative;
     width: 100%;
     z-index: 2;
-    margin-top: 10px;
 }
 .fixed{
     position: fixed !important;
@@ -4037,6 +4036,146 @@ margin-top: 5px;
 
   }
 
+
+/* sidenav */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:rgba(0, 0, 0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    text-align:center;
+    z-index: 999999;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  
+  }
+  
+  .sidenav a:hover{
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  .sidenav-center{
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 1100px;
+  }
+
+.side-nav-head{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+  /* Input container */
+.input-container {
+    position: relative;
+    margin: 20px;
+  }
+  
+  /* Input field */
+  .input-field {
+    display: block;
+    width: 100%;
+    padding: 15px 0px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    outline: none;
+    background-color: transparent;
+    color: #fff !important;
+  }
+  .input-field::placeholder{
+    color: #fff !important;
+  }
+  .side-select:focus-visible{
+    outline: none !important;
+  }
+  /* Input label */
+  .input-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+    color: rgba(204, 204, 204, 0);
+    pointer-events: none;
+    transition: all 0.3s ease;
+  }
+  
+  /* Input highlight */
+  .input-highlight {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background: linear-gradient(90deg, #DF2818 0%, #EB5D2B 75%, #F27935 100%);
+    transition: all 0.3s ease;
+  }
+  
+  /* Input field:focus styles */
+  .input-field:focus + .input-label {
+    top: -20px;
+    font-size: 12px;
+    color: #fff;
+  }
+  .input-field input{
+color: #fff !important;
+  }
+  
+  .input-field:focus + .input-label + .input-highlight {
+    width: 100%;
+  }
+  
+  .side-select{
+    border-left: none;
+    width: 100%;
+    background-color: transparent;
+    border-bottom: 2px solid #fff;
+    border-top: none;
+    border-right: none;
+    padding: 15px 0px;
+    color: #fff !important;
+  }
+
+.enqueiry-submit-button{
+    width: 160px;
+    height: 50px;
+    color: #fff;
+    font-size: 15px;
+    background: linear-gradient(90deg, #DF2818 0%, #EB5D2B 75%, #F27935 100%);
+    text-transform: uppercase;
+    border-radius: 35px;
+    border: none;
+    transition: 1s;
+    margin-top: 30px;
+}
   @media screen and (min-width:100px) and (max-width:766px) {
     .video-main {
         left: 0px;
