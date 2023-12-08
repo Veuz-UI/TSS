@@ -3582,6 +3582,9 @@ font-weight: 700;
     .inner-wrapper-padding{
         padding: 0px;
     }
+    .calendar-container{
+        width: 290px;
+    }
 }
 
 @media screen and (max-width: 1440px) {
