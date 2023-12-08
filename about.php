@@ -708,6 +708,19 @@ let stop =setInterval(function(){
     });
   });
 </script>
+<script>
+  $(document).on('change','.sccope-work',function()
+  {
+    $('#hidden_div').hide();
+    var id = $(this).val();
+    
+    if(id ==5)
+    {
+      $('#hidden_div').show();
+    }
+  })
+</script>
+
 </body>
 
 </html>
