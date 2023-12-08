@@ -280,7 +280,7 @@
         </div>
       </div>
     </div>
-    <div class="blog-carousel owl-carousel owl-theme efficiancy-imgs aos-animate" data-aos="fade-up" data-aos-duration="1000">
+    <div class="blog-carousel sm-small-btn owl-carousel owl-theme efficiancy-imgs aos-animate" data-aos="fade-up" data-aos-duration="1000">
       <div class="item">
         <div class="facility-product">
           <img src="img/service/efficiancy-products/1.png" alt="" class="img-fluid">

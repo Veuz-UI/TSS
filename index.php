@@ -143,7 +143,7 @@
           </button>
         </a>
       </div>
-      <div class="row gx-5">
+      <div class="row gx-md-5">
         <div class="col-lg-4">
           <a href="service.php">
           <div class="bouquet-box">
@@ -223,7 +223,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -237,7 +237,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -251,7 +251,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -265,7 +265,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -279,7 +279,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -293,7 +293,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -307,7 +307,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -321,7 +321,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -335,7 +335,7 @@
                 <img src="img/port-content-logo.png" alt="" class="img-fluid">
                 <h4>Indoor Branding</h4>
                 <div class="portfolio-btn">
-                  <a href="#">
+                  <a href="portfolio.php">
                     <i class="fas fa-arrow-up"></i>
                   </a>
                 </div>
@@ -621,9 +621,11 @@
         </div>
       </div>
       <div class="d-flex justify-content-center mt-5">
+        <a href="event-listing.php">
         <button type="button" class="main-home-btn">
           View More Events
         </button>
+      </a>
       </div>
     </div>
   </section>

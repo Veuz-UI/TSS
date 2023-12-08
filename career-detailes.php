@@ -60,7 +60,7 @@
 
   <section class="section-padding">
     <div class="container ">
-      <div class="d-flex justify-content-between brdr-btm aos-animate" data-aos="fade-up" data-aos-duration="1000">
+      <div class="career-detail-main-div brdr-btm aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <h3 class="career-detail-head">
           Senior Graphic Designer
         </h3>
@@ -74,7 +74,7 @@
             <h6 class="hiring-dtil">Full Time</h6> 
           </div>
           <div class="d-flex align-items-center pdng-left">
-            <h6 class="hiring-dtil">Full Time</h6> 
+            <h6 class="hiring-dtil">Vacant</h6> 
             <h4 class="vacent-count">5</h4>
           </div>
         </div>

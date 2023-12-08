@@ -1,7 +1,7 @@
 <div class="nav-box">
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="d-flex justify-content-between w-100">
-            <div>
+            <div class="mob-nav">
               <a class="navbar-brand" href="#">
                 <img src="img/tss-logo.png" alt="">
               </a>

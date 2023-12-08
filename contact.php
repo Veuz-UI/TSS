@@ -286,8 +286,8 @@
           
         </div>
       </div>
-      <div class="col-lg-12 text-center mt-4">
-        <button type="button" class="main-home-btn mt-4">
+      <div class="col-lg-12 text-center sm-cnt-btn">
+        <button type="button" class="main-home-btn ">
           SUBMIT
         </button>
       </div>

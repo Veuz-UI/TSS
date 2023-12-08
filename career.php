@@ -67,7 +67,7 @@
         We are looking for the most innovative thinkers to help us develop creative solutions through team work that will further activate the brands of our clients. If you are ready to <br>
   push your expertise to new heights, we invite to join hands.
       </p>
-      <div class="row mt-5 aos-animate" data-aos="fade-up" data-aos-duration="1000">
+      <div class="row career-sm-margin aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <div class="col-lg-4">
         <div class="career-box">
           <h3>01</h3>
@@ -90,7 +90,7 @@
         </div>
       </div>
       </div>
-      <div class="row mt-5 d-flex justify-content-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
+      <div class="row career-sm-margin d-flex justify-content-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <div class="col-lg-4">
         <div class="career-box">
           <h3>04</h3>
@@ -107,7 +107,7 @@
       </div>
       </div>
     </div>
-    <div class="text-center mt-5">
+    <div class="text-center career-sm-margin">
       <div class="container">
         <h4 class="aplly-box-head aos-animate" data-aos="fade-up" data-aos-duration="1000">Open Positions</h4>
         <p class="main-para text-center aos-animate" data-aos="fade-up" data-aos-duration="1000">Find the role that fits.</p>
@@ -119,25 +119,25 @@
                 
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/map-pin.svg" alt="">
                     <h6 class="hiring-dtil">Jeddah</h6>
                 </div>
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/time.svg" alt="">
                     <h6 class="hiring-dtil">Full Time</h6> 
                 </div>
               </div>
               <div class="col-lg-2">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <h6 class="hiring-dtil">Full Time</h6> 
                   <h4 class="vacent-count">5</h4>
                 </div>
               </div>
               <div class="col-lg-3">
-                <div class="d-flex justify-content-end">
+                <div class="d-flex justify-content-md-end">
                   <a href="career-detailes.php">
                     <button class="positions-btn read-more">
                       Read More
@@ -157,25 +157,25 @@
                 
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/map-pin.svg" alt="">
                     <h6 class="hiring-dtil">Jeddah</h6>
                 </div>
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/time.svg" alt="">
                     <h6 class="hiring-dtil">Full Time</h6> 
                 </div>
               </div>
               <div class="col-lg-2">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <h6 class="hiring-dtil">Full Time</h6> 
                   <h4 class="vacent-count">5</h4>
                 </div>
               </div>
               <div class="col-lg-3">
-                <div class="d-flex justify-content-end">
+                <div class="d-flex justify-content-md-end">
                   <a href="career-detailes.php">
                     <button class="positions-btn read-more">
                       Read More
@@ -195,25 +195,25 @@
                 
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/map-pin.svg" alt="">
                     <h6 class="hiring-dtil">Jeddah</h6>
                 </div>
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/time.svg" alt="">
                     <h6 class="hiring-dtil">Full Time</h6> 
                 </div>
               </div>
               <div class="col-lg-2">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <h6 class="hiring-dtil">Full Time</h6> 
                   <h4 class="vacent-count">5</h4>
                 </div>
               </div>
               <div class="col-lg-3">
-                <div class="d-flex justify-content-end">
+                <div class="d-flex justify-content-md-end">
                   <a href="career-detailes.php">
                     <button class="positions-btn read-more">
                       Read More
@@ -227,31 +227,31 @@
             </div>
           </div>
           <div class="apply-box aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <div class="row d-flex align-items-center">
+            <div class="row d-flex align-items-center sm-mb">
               <div class="col-lg-5">
                 <h4 class="job-title">Cost Estimator</h4>
                 
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/map-pin.svg" alt="">
                     <h6 class="hiring-dtil">Jeddah</h6>
                 </div>
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/time.svg" alt="">
                     <h6 class="hiring-dtil">Full Time</h6> 
                 </div>
               </div>
               <div class="col-lg-2">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <h6 class="hiring-dtil">Full Time</h6> 
                   <h4 class="vacent-count">5</h4>
                 </div>
               </div>
               <div class="col-lg-3">
-                <div class="d-flex justify-content-end">
+                <div class="d-flex justify-content-md-end">
                   <a href="career-detailes.php">
                     <button class="positions-btn read-more">
                       Read More
@@ -265,36 +265,36 @@
             </div>
           </div>
           <div class="apply-box aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <div class="row d-flex align-items-center">
+            <div class="row d-flex align-items-center sm-mb">
               <div class="col-lg-5">
                 <h4 class="job-title">Branch Manager</h4>
                 
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/map-pin.svg" alt="">
                     <h6 class="hiring-dtil">Jeddah</h6>
                 </div>
               </div>
               <div class="col-lg-1">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <img src="img/time.svg" alt="">
                     <h6 class="hiring-dtil">Full Time</h6> 
                 </div>
               </div>
               <div class="col-lg-2">
-                <div class="d-flex align-items-center">
+                <div class="d-flex align-items-center sm-mb">
                   <h6 class="hiring-dtil">Full Time</h6> 
                   <h4 class="vacent-count">5</h4>
                 </div>
               </div>
               <div class="col-lg-3">
-                <div class="d-flex justify-content-end">
+                <div class="d-flex justify-content-md-end">
                   <a href="career-detailes.php">
-                  <button class="positions-btn read-more">
-                    Read More
-                  </button>
-                </a>
+                    <button class="positions-btn read-more">
+                      Read More
+                    </button>
+                  </a>
                   <button class="positions-btn apply">
                     Apply
                   </button>

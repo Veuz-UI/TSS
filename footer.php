@@ -14,7 +14,7 @@
         <ul class="nav-section-2 nav-links d-flex">
           <li class="d-flex align-items-center">
             <a href="">
-              <img src="img/earth-icon.svg" alt="" class="img-fluid globe-icon">
+              <img src="img/earth-icon.svg" alt="" class="img-fluid globe-icon-footer">
               عربى
             </a>
           </li>

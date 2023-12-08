@@ -80,7 +80,7 @@
                 </button>
                 
               </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                   <div class="calendar-container">
                     <div class="calendar-month-arrow-container">
@@ -222,7 +222,7 @@
         
         </div>
       </div>
-      <div class="col-lg-9">
+      <div class="col-lg-9 sm-event-mt">
         
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">

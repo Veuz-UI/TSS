@@ -87,7 +87,7 @@
       </ul>
       <div class="tab-content" id="ex1-content">
         <div class="tab-pane fade show active" id="ex1-tabs-1" role="tabpanel" aria-labelledby="ex1-tab-1">
-          <div class="row mt-5 aos-animate" data-aos="fade-up" data-aos-duration="1000">
+          <div class="row blog-mt aos-animate" data-aos="fade-up" data-aos-duration="1000">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -152,7 +152,7 @@
               </div>
             </div>
           </div>
-          <div class="row mt-5 aos-animate" data-aos="fade-up" data-aos-duration="1000">
+          <div class="row blog-mt aos-animate" data-aos="fade-up" data-aos-duration="1000">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -220,7 +220,7 @@
         
         </div>
         <div class="tab-pane fade" id="ex1-tabs-2" role="tabpanel" aria-labelledby="ex1-tab-2">
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -285,7 +285,7 @@
               </div>
             </div>
           </div>
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -352,7 +352,7 @@
           </div>
         </div>
         <div class="tab-pane fade" id="ex1-tabs-3" role="tabpanel" aria-labelledby="ex1-tab-3">
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -417,7 +417,7 @@
               </div>
             </div>
           </div>
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -484,7 +484,7 @@
           </div>
         </div>
         <div class="tab-pane fade" id="ex1-tabs-4" role="tabpanel" aria-labelledby="ex1-tab-4">
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -549,7 +549,7 @@
               </div>
             </div>
           </div>
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -616,7 +616,7 @@
           </div>
         </div>
         <div class="tab-pane fade" id="ex1-tabs-5" role="tabpanel" aria-labelledby="ex1-tab-5">
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -681,7 +681,7 @@
               </div>
             </div>
           </div>
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -748,7 +748,7 @@
           </div>
         </div>
         <div class="tab-pane fade" id="ex1-tabs-6" role="tabpanel" aria-labelledby="ex1-tab-6">
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">
@@ -813,7 +813,7 @@
               </div>
             </div>
           </div>
-          <div class="row mt-5">
+          <div class="row blog-mt">
             <div class="col-lg-4">
               <div class="blog-inner-box">
                 <div class="blog-inner-img-box">

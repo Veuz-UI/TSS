@@ -63,7 +63,7 @@
   <section class="section-padding">
     <div class="bg-abstract">
     <div class="container">
-      <div class="row gx-5 d-flex align-items-center">
+      <div class="row gx-md-5 d-flex align-items-center">
         <div class="col-lg-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
           <div class="row d-flex align-items-center">
             <div class="col-lg-6">
@@ -318,7 +318,7 @@
     </div>
     <div class="counter-box">
       <div class="row">
-        <div class="col-lg-3 d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+        <div class="col-lg-3 counter-sm-mt d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
           <div class="counter-circle">
             <div class="counter-circle-2">
               <h4 class="count count-no" data-number="500"></h4>
@@ -326,7 +326,7 @@
           </div>
           <h6 class="counter-data">Clientele and Still Counting</h6>
         </div>
-        <div class="col-lg-3 d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+        <div class="col-lg-3 counter-sm-mt d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
           <div class="counter-circle">
             <div class="counter-circle-2">
               <h4 class="count count-no" data-number="400"></h4>
@@ -334,7 +334,7 @@
           </div>
           <h6 class="counter-data">Talented Employees</h6>
         </div>
-        <div class="col-lg-3 d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+        <div class="col-lg-3 counter-sm-mt d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
           <div class="counter-circle">
             <div class="counter-circle-2">
               <h4 class="count count-no" data-number="50"></h4>
@@ -343,7 +343,7 @@
           <h6 class="counter-data">Fleets with Best in class <br> 
             Logistic Services</h6>
         </div>
-        <div class="col-lg-3 d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
+        <div class="col-lg-3 counter-sm-mt d-flex justify-content-center align-items-center flex-column aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
           <div class="counter-circle">
             <div class="counter-circle-2">
               <h4 class="count count-no" data-number="400"></h4>
