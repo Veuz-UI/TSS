@@ -3280,6 +3280,9 @@ font-weight: 700;
 .sm-cnt-btn{
     margin-top: 35px;
 }
+.footer-arabic-cntnt {
+    color: white !important;
+}
 /*==============Responsive==============*/
 
 
@@ -4295,11 +4298,11 @@ color: #fff !important;
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-top: 30px;
+        margin-top: 15px;
     }
     .event-box4 .location {
         text-align: center;
-        margin-top: 30px;
+        margin-top: 10px;
     }
     .event-div .event-box1 {
         width: 100%;
@@ -4324,7 +4327,7 @@ color: #fff !important;
         margin-top: 30px;
     }
     .btn1{
-        margin-top: 20px;
+        margin-top: 25px;
     }
     .owl-theme .owl-dots .owl-dot{
         display: none;
@@ -4453,7 +4456,7 @@ color: #fff !important;
         list-style: none;
         padding: 0;
     }
-    .nav-section-2 .nav-link{
+    .header-nav2 .nav-link{
         margin-left: 0px;
         padding: 0px;
         color: #222!important;
@@ -4576,7 +4579,7 @@ color: #fff !important;
     .blog-inner-sub-head {
         padding-left: 5px;
     }
-    .nav-links li a{
+    .header-nav2 li a{
         color: #1e1e1e !important;
     }
     .career-sm-margin{
@@ -4689,7 +4692,18 @@ color: #fff !important;
     .event-box3 .event-tym h6{
         font-size: 12px;
     }
-   
+   .footer-arabic-cntnt {
+        color: white !important;
+    }
+    .globe-icon-footer{
+        color: white !important;
+    }
+    .sm-pdding-dark{
+        padding: 50px 15px;
+    }
+    .bouquet-box{
+        margin-top: 30px;
+    }
 
 }
 

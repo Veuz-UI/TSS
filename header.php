@@ -37,7 +37,7 @@
                   <a class="nav-link" href="contact.php">Contact</a>
                 </li>
               </ul>
-              <ul class="nav-section-2 nav-links d-flex">
+              <ul class="nav-section-2 header-nav2 nav-links d-flex">
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
                     data-bs-toggle="dropdown" aria-expanded="false">

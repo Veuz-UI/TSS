@@ -13,7 +13,7 @@
         </div>
         <ul class="nav-section-2 nav-links d-flex">
           <li class="d-flex align-items-center">
-            <a href="">
+            <a  href="" class="footer-arabic-cntnt">
               <img src="img/earth-icon.svg" alt="" class="img-fluid globe-icon-footer">
               عربى
             </a>
