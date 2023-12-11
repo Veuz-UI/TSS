@@ -1363,7 +1363,8 @@ footer .nav-section-2 li {
 }
 
 .footer-map {
-    margin: 30px 0px;
+    margin: 30px 0px 80px;
+    position: relative;
 }
 
 .footer-about {
@@ -3157,7 +3158,7 @@ font-weight: 700;
     margin-top: 8px;
   }
   .client-detail-div{
-    padding: 55px;
+    padding: 45px;
   }
   .detail-cl-logo{
     display: flex;
@@ -3173,9 +3174,13 @@ font-weight: 700;
     object-fit: contain;
   }
   .client-detail-div h5{
-    font-size: 20px;
-    font-weight: 600;
     margin: 15px 0px;
+    color: #282A39;
+    font-size: 32px;
+    line-height: 45px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 20px;
   }
   .client-detail-cntnt h6{
     color: #616161;
@@ -3213,12 +3218,12 @@ font-weight: 700;
     border: 1px solid #ebebeb;
     background-color: #fff;
     width:100%;
-    min-height: 160px;
+    min-height: 130px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 25px;
+    padding: 20px;
     margin-top: 25px;
 }
 .event-detail-subboxes h4{
@@ -3247,15 +3252,17 @@ font-weight: 700;
 }
 .ofcil-link-btn{
     color: #E02E1A;
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: 600;
     border: 1px solid #ebebeb;
     background: #fff;
     padding: 0px 10px;
     border-radius: 5px;
     height: 30px;
+    margin-top: 10px;
 }
 .event-main-div{
-    margin-top: 100px;
+    margin-top: 50px;
     position: relative;
 }
 .evnt-dtl-tab{
@@ -4707,3 +4714,249 @@ color: #fff !important;
 
 }
 
+.event-detail-subboxes .client-detail-cntnt{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.event-detail-subboxes .client-detail-cntnt h6{
+    text-align: left;
+    line-height: 23px;
+}
+
+.event-detail-subboxes .client-detail-cntnt.evt-adrs{
+    align-items: flex-start !important;
+}
+
+.client-detail-div .blog-sub-head{
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.client-detail-div .blog-inner-sub-head{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.client-detail-div .blog-inner-sub-head::before{
+    top: -3px;
+    left: -20px;
+}
+
+.tag-lists{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0px 30px;
+    padding: 0px;
+    gap: 10px;
+}
+
+.tag-lists li{
+    color: #5F6171;
+    padding: 5px 20px;
+    border: 1px solid #ebebeb;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.left-category-box{
+    padding: 25px 20px;
+    border-radius: 3px;
+    background: #FFF;
+    box-shadow: 0px 0px 7px 0px rgba(126, 126, 126, 0.25);
+    margin-bottom: 30px;
+}
+
+.left-category-box .rec-artcls{
+    border: 1px solid #ebebeb;
+    background-color: #F5F5F5;
+    padding: 10px 15px;
+}
+
+.left-category-box .rec-artcls img{
+    width: 100%;
+    height: 55px;
+    object-fit: contain;
+}
+
+.sidenav1 .side-nav-head{
+    font-size: 45px;
+    line-height: 65px;
+    margin-bottom: 35px;
+}
+
+.left-category-box .rec-artcls-dtls h4 {
+    color: #282A39;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.footer-map .egypt{
+    position: absolute;
+    top: 24px;
+    left: 44.5%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .riyad{
+    position: absolute;
+    top: 10%;
+    left: 56.5%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .oman{
+    position: absolute;
+    top: 21.5%;
+    left: 64%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .dammam{
+    position: absolute;
+    top: 47.5%;
+    left: 63.5%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .bahrain{
+    position: absolute;
+    top: 74%;
+    left: 56.5%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .dubai{
+    position: absolute;
+    top: 60%;
+    left: 43%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.footer-map .qatar{
+    position: absolute;
+    top: 47%;
+    left: 33%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .jeddah{
+    position: absolute;
+    top: 28%;
+    left: 40%;
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .loc-tooltip{
+    min-width: 200px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    opacity: 0;
+    transition: 1s;
+    z-index: -1;
+}
+
+.footer-map .loc-tooltip h6{
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.footer-map .loc-tooltip p{
+    font-size: 11px;
+    width: auto;
+    font-weight: 500;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.footer-map .egypt:hover .loc-tooltip{
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
+
+.footer-map .riyad:hover .loc-tooltip{
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
+
+.footer-map .oman:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
+
+.footer-map .dammam:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
+
+.footer-map .bahrain:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
+
+.footer-map .dubai:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
+
+.footer-map .qatar:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1s;
+}
+
+.footer-map .jeddah:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1s;
+}
