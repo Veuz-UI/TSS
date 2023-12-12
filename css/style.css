@@ -4243,6 +4243,9 @@ color: #fff !important;
     border: 1px solid #4c4c4c !important;
     color: #fff !important;
 }
+.main-forms textarea::placeholder{
+    color: #fff !important;
+}
   @media screen and (min-width:100px) and (max-width:766px) {
     .video-main {
         display: none;
