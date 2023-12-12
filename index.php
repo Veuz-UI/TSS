@@ -536,7 +536,7 @@
         </div>
         <div class="event-box2">
           <div class="event-info">
-            <h3>Exposure Math - Capture Any Photography Genre</h3>
+            <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
             <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
           </div>
         </div>
@@ -553,7 +553,7 @@
           </div>
         </div>
         <div class="event-box5">
-          <a href="event-listing.php">
+          <a href="event-detail.php">
           <button type="button" class="main-home-btn">
             View More
           </button>
@@ -566,7 +566,7 @@
         </div>
         <div class="event-box2">
           <div class="event-info">
-            <h3>Exposure Math - Capture Any Photography Genre</h3>
+            <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
             <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
           </div>
         </div>
@@ -583,7 +583,7 @@
           </div>
         </div>
         <div class="event-box5">
-          <a href="event-listing.php">
+          <a href="event-detail.php">
             <button type="button" class="main-home-btn">
               View More
             </button>
@@ -596,7 +596,7 @@
         </div>
         <div class="event-box2">
           <div class="event-info">
-            <h3>Exposure Math - Capture Any Photography Genre</h3>
+            <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
             <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
           </div>
         </div>
@@ -613,7 +613,7 @@
           </div>
         </div>
         <div class="event-box5">
-          <a href="event-listing.php">
+          <a href="event-detail.php">
             <button type="button" class="main-home-btn">
               View More
             </button>

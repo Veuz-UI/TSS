@@ -4797,10 +4797,10 @@ color: #fff !important;
 
 .footer-map .egypt{
     position: absolute;
-    top: 24px;
-    left: 44.5%;
-    width: 62px;
-    height: 62px;
+    top: 25px;
+    left: 45%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4810,8 +4810,8 @@ color: #fff !important;
     position: absolute;
     top: 10%;
     left: 56.5%;
-    width: 62px;
-    height: 62px;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4820,9 +4820,20 @@ color: #fff !important;
 .footer-map .oman{
     position: absolute;
     top: 21.5%;
-    left: 64%;
-    width: 62px;
-    height: 62px;
+    left: 64.5%;
+    width: 58px;
+    height: 58px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .kuwait{
+    position: absolute;
+    top: 69.3%;
+    left: 64.5%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4830,10 +4841,10 @@ color: #fff !important;
 
 .footer-map .dammam{
     position: absolute;
-    top: 47.5%;
-    left: 63.5%;
-    width: 62px;
-    height: 62px;
+    top: 45%;
+    left: 68%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4841,10 +4852,10 @@ color: #fff !important;
 
 .footer-map .bahrain{
     position: absolute;
-    top: 74%;
-    left: 56.5%;
-    width: 62px;
-    height: 62px;
+    top: 77%;
+    left: 53.2%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4852,20 +4863,20 @@ color: #fff !important;
 
 .footer-map .dubai{
     position: absolute;
-    top: 60%;
-    left: 43%;
-    width: 62px;
-    height: 62px;
+    top: 59%;
+    left: 43.1%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
 }
 .footer-map .qatar{
     position: absolute;
-    top: 47%;
-    left: 33%;
-    width: 62px;
-    height: 62px;
+    top: 46.5%;
+    left: 33.3%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4874,9 +4885,9 @@ color: #fff !important;
 .footer-map .jeddah{
     position: absolute;
     top: 28%;
-    left: 40%;
-    width: 62px;
-    height: 62px;
+    left: 40.4%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4926,13 +4937,19 @@ color: #fff !important;
     transition: 1.5s;
 }
 
-.footer-map .dammam:hover .loc-tooltip{
+.footer-map .kuwait:hover .loc-tooltip{
     bottom: 0px;
     opacity: 1;
     z-index: 1;
     transition: 1.5s;
 }
 
+.footer-map .dammam:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
 .footer-map .bahrain:hover .loc-tooltip{
     bottom: 0px;
     opacity: 1;
@@ -4959,4 +4976,16 @@ color: #fff !important;
     opacity: 1;
     z-index: 1;
     transition: 1s;
+}
+
+.client-detail-div h3{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.client-detail-div h3 span{
+    color: #999999;
+    margin-left: 3px;
+    font-weight: 500;
+    font-size: 15px;
 }
