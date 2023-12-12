@@ -69,7 +69,7 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="left-category-box aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <h5 class="category-sub-head">Recent Events</h5>
+            <h5 class="category-sub-head">Upcoming Events</h5>
             <a href="#">
             <div class="row d-flex align-items-center mt-3">
               <div class="col-lg-5">
