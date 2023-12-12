@@ -2512,7 +2512,7 @@ footer .nav-section-2 li {
 
 .form-rdio-label {
     font-size: 15px;
-    color: #717171;
+    color: #b9b9b9;
     font-weight: 500;
     margin-right: 15px;
 }
@@ -2536,6 +2536,7 @@ footer .nav-section-2 li {
 .mr-25 label {
     font-size: 15px;
     font-weight: 600;
+    color: #fff;
 }
 
 
@@ -2576,6 +2577,7 @@ footer .nav-section-2 li {
 
 .chkbox-cntnt {
     margin-left: 10px;
+    color: #b9b9b9;
 }
 
 #yes {
@@ -4225,6 +4227,25 @@ color: #fff !important;
     transition: 1s;
     margin-top: 30px;
 }
+.margin-forms-top{
+    margin-top: 16px;
+}
+.forms-inp-color input{
+    background-color: #343434 !important;
+    border: 1px solid #4c4c4c !important;
+    color: #fff !important;
+}
+.forms-inp-color input::placeholder{
+    color: #fff !important;
+}
+.forms-inp-color-select{
+    background-color: #343434 !important;
+    border: 1px solid #4c4c4c !important;
+    color: #fff !important;
+}
+.main-forms textarea::placeholder{
+    color: #fff !important;
+}
   @media screen and (min-width:100px) and (max-width:766px) {
     .video-main {
         display: none;
@@ -4711,7 +4732,15 @@ color: #fff !important;
     .bouquet-box{
         margin-top: 30px;
     }
-
+    .side-nav-head {
+        font-size: 40px;
+    }
+    .sidenav-center {
+        width: 100%;
+    }
+    .input-container {
+        margin: 7px 20px;
+    }
 }
 
 .event-detail-subboxes .client-detail-cntnt{

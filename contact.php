@@ -65,7 +65,7 @@
   <p class="main-para dark text-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
     You've come to the right place to discuss how TSS can help you achieve your advertisement goals. Complete the form below, and we'll be in touch to discuss your project. Looking to <br> join our team?  Check out our career opportunities
   </p>
-  <div class="container">
+  <!-- <div class="container">
     <div class="row mt-4">
       <div class="col-lg-4  aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <div class="talk-box-contct">
@@ -136,7 +136,88 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <div id="contact-form">
+    <div class="container">
+     <div class="row">
+       <div class="col-lg-6  aos-animate" data-aos="fade-right" data-aos-duration="1000">
+         <div class="main-forms forms-inp-color">
+           <input type="name" class="form-control" placeholder="First Name">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="email" class="form-control" placeholder="Email">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="text" class="form-control" placeholder="Job title">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="text" class="form-control" placeholder="Organization">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="text" class="form-control" placeholder="Website">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="email" class="form-control" placeholder="Email">
+         </div>
+         <div class="d-flex form-radio-btns">
+           <label class="form-rdio-label" for="">Are you existing client</label>
+           <div class="mr-25">
+             <input type="radio" id="yes" name="fav_language" value="Yes"><label for="yes">Yes</label>
+           </div>
+           <div class="mr-25">
+             <input type="radio" id="no" name="fav_language" value="no"><label for="no">No</label>
+           </div>
+         </div>
+  
+         <div class="d-flex mt-3">
+           <label class="checkbox-wrapper">
+             <input checked="" type="checkbox" id="check" hidden="">
+             <label for="check" class="checkmark"></label>
+             </label>
+             <h6 class="chkbox-cntnt">Yes, I would like TSS to contact me based on the information provided above.</h6>
+         </div>
+       </div>
+       <div class="col-lg-6  aos-animate" data-aos="fade-left" data-aos-duration="1000">
+         <div class="main-forms forms-inp-color">
+           <input type="name" class="form-control" placeholder="Last name">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="email" class="form-control" placeholder="Phone">
+         </div>
+         <div class="main-forms forms-inp-color">
+           <input type="text" class="form-control" placeholder="Job title">
+         </div>
+         <div class="main-forms margin-forms-top">
+           <select class="forms-inp-color-select" id="cars" name="cars">
+             <option value="volvo">How did you hear about us</option>
+             <option value="saab">How did you hear about us</option>
+             <option value="fiat">How did you hear about us</option>
+             <option value="audi">How did you hear about us</option>
+           </select>
+         </div>
+         <div class="main-forms margin-forms-top">
+           <select class="forms-inp-color-select" id="cars" name="cars">
+             <option value="volvo">Service/Product</option>
+             <option value="saab">Service/Product</option>
+             <option value="fiat">Service/Product</option>
+             <option value="audi">Service/Product</option>
+           </select>
+         </div>
+
+         <div class="main-forms">
+          <textarea class="forms-inp-color-select" name="" id="" cols="30" rows="10" placeholder="How can we help you?"></textarea>
+        </div>
+         
+       </div>
+     </div>
+     <div class="col-lg-12 text-center sm-cnt-btn">
+       <button type="button" class="main-home-btn ">
+         SUBMIT
+       </button>
+     </div>
+   </div>
+ </div>
 </div>
   </section>
 
@@ -211,88 +292,7 @@
         </div>
       </div>
      </div>
-     <div id="contact-form">
-     <div class="container">
-      <h5 class="form-detail-head text-center aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">Start a Conversation</h5>
-      <p class="main-para text-center  aos-animate" data-aos="fade-up" data-aos-duration="1000">
-        Let's Connect ,we'll get back to you with how we can help.
-      </p>
-      <div class="row">
-        <div class="col-lg-6  aos-animate" data-aos="fade-right" data-aos-duration="1000">
-          <div class="main-forms">
-            <input type="name" class="form-control" placeholder="First Name">
-          </div>
-          <div class="main-forms">
-            <input type="email" class="form-control" placeholder="Email">
-          </div>
-          <div class="main-forms">
-            <input type="text" class="form-control" placeholder="Job title">
-          </div>
-          <div class="main-forms">
-            <input type="text" class="form-control" placeholder="Organization">
-          </div>
-          <div class="main-forms">
-            <input type="text" class="form-control" placeholder="Website">
-          </div>
-          <div class="main-forms">
-            <input type="email" class="form-control" placeholder="Email">
-          </div>
-          <div class="d-flex form-radio-btns">
-            <label class="form-rdio-label" for="">Are you existing client</label>
-            <div class="mr-25">
-              <input type="radio" id="yes" name="fav_language" value="Yes"><label for="yes">Yes</label>
-            </div>
-            <div class="mr-25">
-              <input type="radio" id="no" name="fav_language" value="no"><label for="no">No</label>
-            </div>
-          </div>
-         <div class="main-forms">
-            <textarea name="" id="" cols="30" rows="10" placeholder="How can we help you?"></textarea>
-          </div>
-          <div class="d-flex mt-3">
-            <label class="checkbox-wrapper">
-              <input checked="" type="checkbox" id="check" hidden="">
-              <label for="check" class="checkmark"></label>
-              </label>
-              <h6 class="chkbox-cntnt">Yes, I would like TSS to contact me based on the information provided above.</h6>
-          </div>
-        </div>
-        <div class="col-lg-6  aos-animate" data-aos="fade-left" data-aos-duration="1000">
-          <div class="main-forms">
-            <input type="name" class="form-control" placeholder="Last name">
-          </div>
-          <div class="main-forms">
-            <input type="email" class="form-control" placeholder="Phone">
-          </div>
-          <div class="main-forms">
-            <input type="text" class="form-control" placeholder="Job title">
-          </div>
-          <div class="main-forms">
-            <select id="cars" name="cars">
-              <option value="volvo">How did you hear about us</option>
-              <option value="saab">How did you hear about us</option>
-              <option value="fiat">How did you hear about us</option>
-              <option value="audi">How did you hear about us</option>
-            </select>
-          </div>
-          <div class="main-forms">
-            <select id="cars" name="cars">
-              <option value="volvo">Service/Product</option>
-              <option value="saab">Service/Product</option>
-              <option value="fiat">Service/Product</option>
-              <option value="audi">Service/Product</option>
-            </select>
-          </div>
-          
-        </div>
-      </div>
-      <div class="col-lg-12 text-center sm-cnt-btn">
-        <button type="button" class="main-home-btn ">
-          SUBMIT
-        </button>
-      </div>
-    </div>
-  </div>
+
    </section>
    <?php include 'footer.php';?>
 
