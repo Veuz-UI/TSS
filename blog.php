@@ -99,7 +99,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -120,7 +120,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -141,7 +141,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -164,7 +164,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -185,7 +185,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -206,7 +206,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -232,7 +232,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -253,7 +253,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -274,7 +274,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -297,7 +297,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -318,7 +318,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -339,7 +339,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -364,7 +364,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -385,7 +385,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -406,7 +406,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -429,7 +429,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -450,7 +450,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -471,7 +471,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -496,7 +496,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -517,7 +517,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -538,7 +538,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -561,7 +561,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -582,7 +582,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -603,7 +603,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -628,7 +628,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -649,7 +649,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -670,7 +670,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -693,7 +693,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -714,7 +714,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -735,7 +735,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -760,7 +760,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -781,7 +781,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -802,7 +802,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -825,7 +825,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -846,7 +846,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>
@@ -867,7 +867,7 @@
                   In Emotional Branding
                 </p>
                 <a href="blog-inner.php">
-                  <button class="btn1 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                  <button class="btn1 btn-width2 mt-20 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                     <span class="circle" aria-hidden="true">
                     <span class="icon arrow"></span>
                     </span>

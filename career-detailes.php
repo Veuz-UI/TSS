@@ -103,7 +103,7 @@
       </div>
       <div class="col-lg-12 text-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
         <a href="#contact-form"><button type="button" class="main-home-btn mt-4">
-          Applay Now
+          Apply Now
         </button></a>
       </div>
     </div>

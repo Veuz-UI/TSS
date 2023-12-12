@@ -453,8 +453,14 @@ a {
 }
 
 .white-btn:hover .btn-svg-icon {
-    stroke: black;
+    stroke: #222;
     transition: .5s;
+    position: relative;
+    z-index: 1;
+}
+
+.white-btn:hover .btn-svg-icon path{
+    stroke-width: 1.3px;
 }
 
 .main-home-btn {
@@ -1648,7 +1654,7 @@ footer .nav-section-2 li {
 
 .counter-circle-2:hover h4 {
     color: #fff;
-    transition: 1s;
+    /* transition: 1s; */
 }
 
 .count-no {
@@ -1656,7 +1662,7 @@ footer .nav-section-2 li {
     font-size: 40px;
     font-weight: 700;
     margin: 0;
-    transition: 1s;
+    /* transition: 1s; */
 }
 
 .counter-data {
@@ -1907,13 +1913,20 @@ footer .nav-section-2 li {
 
 .srvc-btn {
     background-color: white;
-    height: 45px;
+    height: 40px;
     border: none;
     border-radius: 50px;
     font-size: 15px;
     font-weight: 600;
     padding: 0px 20px;
     margin-top: 10px;
+    transition: .5s;
+}
+
+.srvc-btn:hover{
+    background: linear-gradient(90deg, #DF2818 0%, #EB5D2B 75%, #F27935 100%);
+    color: white;
+    transition: .5s;
 }
 
 .srvc-bt span {
@@ -2323,11 +2336,38 @@ footer .nav-section-2 li {
 }
 
 .positions-btn {
-    height: 45px;
-    padding: 0px 25px;
+    height: 38px;
+    padding: 0px 30px;
+    font-size: 15px;
     border: none;
     border-radius: 50px;
     font-weight: 600;
+}
+
+.positions-btn.read-more:hover{
+    background: linear-gradient(90deg, #E02B19 0%, #F06E31 100%);
+    color: white;
+}
+
+.positions-btn.apply{
+    position: relative;
+    transition: 1s;
+}
+
+.positions-btn.apply:after {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 10%);
+    transition: 1s;
+}
+
+.positions-btn.apply:hover::after{
+    width: 100%;
+    transition: 1s;
 }
 
 .read-more {
@@ -2357,7 +2397,7 @@ footer .nav-section-2 li {
 }
 
 .job-title {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 600;
     margin: 0;
     text-align: left;
@@ -3994,6 +4034,7 @@ margin-top: 5px;
 .career-detail-main-div{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .container__img-holder {
@@ -5038,7 +5079,7 @@ color: #fff !important;
 
 .sm-event-mt .evnt-list-btn{
     height: 35px !important;
-    padding: 0px 20px !important;
+    padding: 0px 15px !important;
     font-size: 13px !important;
 }
 
@@ -5059,4 +5100,13 @@ color: #fff !important;
     color: white !important;
     background: linear-gradient(90deg, #DF2818 0%, #EB5D2B 75%, #F27935 100%) !important;
     transition: 1s;
+}
+
+.country-drop li{
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.country-drop li a{
+    padding: 0.25rem 1rem;
 }

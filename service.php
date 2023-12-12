@@ -104,7 +104,7 @@
             </h5>
             <a href="service-detail.php">
             <button type="button" class="srvc-btn">
-              Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+              Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
             </button>
           </a>
           </div>
@@ -118,7 +118,7 @@
             </h5>
             <a href="service-detail.php">
             <button type="button" class="srvc-btn">
-              Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+              Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
             </button>
           </a>
           </div>
@@ -132,7 +132,7 @@
               </h5>
               <a href="service-detail.php">
               <button type="button" class="srvc-btn">
-                Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+                Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
               </button>
             </a>
           </div>
@@ -147,7 +147,7 @@
             </h5>
             <a href="service-detail.php">
             <button type="button" class="srvc-btn">
-              Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+              Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
             </button>
           </a>
         </div>
@@ -161,7 +161,7 @@
             </h5>
             <a href="service-detail.php">
             <button type="button" class="srvc-btn">
-              Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+              Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
             </button>
           </a>
         </div>
@@ -174,7 +174,7 @@
           </h5>
           <a href="service-detail.php">
           <button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button>
         </a>
         </div>
@@ -188,7 +188,7 @@
             Display Stand manufacturer
           </h5>
           <a href="service-detail.php"><button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button></a>
         </div>
         <div class="mt-30">
@@ -199,7 +199,7 @@
             Indoor and Outdoor Branding
           </h5>
           <a href="service-detail.php"><button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button></a>
         </div>
 
@@ -211,7 +211,7 @@
             Flag, Pop Up, Roll Up
           </h5>
           <a href="service-detail.php"><button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button></a>
         </div>
 
@@ -225,7 +225,7 @@
             Premium Pods
           </h5>
           <a href="service-detail.php"><button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button></a>
         </div>
         <div class="mt-30">
@@ -236,7 +236,7 @@
             Fabric Printing
           </h5>
           <a href="service-detail.php"><button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button></a>
         </div>
         <div class="mt-30">
@@ -247,7 +247,7 @@
             Indoor and Outdoor Branding
           </h5>
           <a href="service-detail.php"><button type="button" class="srvc-btn">
-            Explore services <span><img src="img/service/arrow-right.svg" alt="" class="img-fluid"></span>
+            Explore services <i class="fas fa-arrow-right" aria-hidden="true"></i>
           </button></a>
         </div>
         </div>

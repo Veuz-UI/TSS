@@ -1,6 +1,6 @@
 <footer>
   <div class="container">
-    <div class="footer-top" data-aos="fade-up" data-aos-duration="2000">
+    <div class="footer-top">
       <button type="button" class="btn4">
         <span>Business Enquiry</span> 
       </button>
@@ -22,7 +22,7 @@
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             UAE
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <ul class="dropdown-menu country-drop" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="#">USA</a></li>
             <li><a class="dropdown-item" href="#">IND</a></li>
           </ul>
@@ -30,7 +30,7 @@
        
       </ul>
     </div>
-    <div class="footer-middle" data-aos="fade-up" data-aos-duration="2000">
+    <div class="footer-middle">
       <div class="row">
         <div class="col-md-4">
           <div class="footer-about">
