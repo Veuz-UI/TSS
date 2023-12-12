@@ -532,7 +532,7 @@
       </div>
       <div class="event-div">
         <div class="event-box1">
-            <img src="img/client1.svg" alt="">
+          <a href="event-detail.php"><img src="img/client1.svg" alt=""></a>
         </div>
         <div class="event-box2">
           <div class="event-info">
@@ -562,7 +562,7 @@
       </div>
       <div class="event-div">
         <div class="event-box1">
-            <img src="img/client2.svg" alt="">
+          <a href="event-detail.php"><img src="img/client2.svg" alt=""></a>
         </div>
         <div class="event-box2">
           <div class="event-info">
@@ -592,7 +592,7 @@
       </div>
       <div class="event-div">
         <div class="event-box1">
-            <img src="img/client3.svg" alt="">
+          <a href="event-detail.php"><img src="img/client3.svg" alt=""></a>
         </div>
         <div class="event-box2">
           <div class="event-info">
