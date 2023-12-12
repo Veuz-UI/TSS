@@ -1,6 +1,6 @@
 <footer>
   <div class="container">
-    <div class="footer-top" data-aos="fade-up" data-aos-duration="2000">
+    <div class="footer-top">
       <button type="button" class="btn4">
         <span>Business Enquiry</span> 
       </button>
@@ -22,7 +22,7 @@
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             UAE
           </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <ul class="dropdown-menu country-drop" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="#">USA</a></li>
             <li><a class="dropdown-item" href="#">IND</a></li>
           </ul>
@@ -30,7 +30,7 @@
        
       </ul>
     </div>
-    <div class="footer-middle" data-aos="fade-up" data-aos-duration="2000">
+    <div class="footer-middle">
       <div class="row">
         <div class="col-md-4">
           <div class="footer-about">
@@ -83,43 +83,49 @@
             <div class="riyad">
               <div class="loc-tooltip">
                 <h6>Riyad</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Riyad</p>
               </div>
             </div>
             <div class="oman">
               <div class="loc-tooltip">
                 <h6>Oman</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Oman</p>
               </div>
             </div>
             <div class="dammam">
               <div class="loc-tooltip">
                 <h6>Dammam</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Dammam</p>
+              </div>
+            </div>
+            <div class="kuwait">
+              <div class="loc-tooltip">
+                <h6>Kuwait</h6>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Kuwait</p>
               </div>
             </div>
             <div class="bahrain">
               <div class="loc-tooltip">
                 <h6>Bahrain</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Bahrain</p>
               </div>
             </div>
             <div class="dubai">
               <div class="loc-tooltip">
                 <h6>Dubai</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Dubai</p>
               </div>
             </div>
             <div class="qatar">
               <div class="loc-tooltip">
                 <h6>Qatar</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Qatar</p>
               </div>
             </div>
             <div class="jeddah">
               <div class="loc-tooltip">
                 <h6>Jeddah</h6>
-                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Egypt</p>
+                <p>24 B El Zahraa St., New Nerco Bldgs, Maadi, Cairo, Jeddah</p>
               </div>
             </div>
           </div>

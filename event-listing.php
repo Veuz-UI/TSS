@@ -226,11 +226,11 @@
         
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">
-              <img src="img/client1.svg" alt="" class="event-client-logo">
+             <a href="event-detail.php"><img src="img/client1.svg" alt="" class="event-client-logo"></a> 
           </div>
           <div class="event-box2">
             <div class="event-info">
-              <h3>Exposure Math - Capture Any Photography Genre</h3>
+              <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
               <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
             </div>
           </div>
@@ -247,21 +247,23 @@
             </div>
           </div>
           <div class="event-box5">
+            <button type="button" class="build-stand-btn evnt-list-btn" onclick="openNav1()">Build Stand With TSS</button>
             <a href="event-detail.php">
             <button type="button" class="main-home-btn evnt-list-btn">
               View More
             </button>
           </a>
+          
           </div>
         </div>
 
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">
-              <img src="img/client2.svg" alt="" class="event-client-logo">
+            <a href="event-detail.php"><img src="img/client2.svg" alt="" class="event-client-logo"></a>
           </div>
           <div class="event-box2">
             <div class="event-info">
-              <h3>Exposure Math - Capture Any Photography Genre</h3>
+              <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
               <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
             </div>
           </div>
@@ -278,20 +280,22 @@
             </div>
           </div>
           <div class="event-box5">
+            <button type="button" class="build-stand-btn evnt-list-btn" onclick="openNav1()">Build Stand With TSS</button>
             <a href="event-detail.php">
             <button type="button" class="main-home-btn evnt-list-btn">
               View More
             </button>
           </a>
+        
           </div>
         </div>
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">
-              <img src="img/client1.svg" alt="" class="event-client-logo">
+            <a href="event-detail.php"><img src="img/client1.svg" alt="" class="event-client-logo"></a>
           </div>
           <div class="event-box2">
             <div class="event-info">
-              <h3>Exposure Math - Capture Any Photography Genre</h3>
+              <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
               <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
             </div>
           </div>
@@ -308,21 +312,23 @@
             </div>
           </div>
           <div class="event-box5">
+            <button type="button" class="build-stand-btn evnt-list-btn" onclick="openNav1()">Build Stand With TSS</button>
             <a href="event-detail.php">
             <button type="button" class="main-home-btn evnt-list-btn">
               View More
             </button>
           </a>
+         
           </div>
         </div>
 
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">
-              <img src="img/client2.svg" alt="" class="event-client-logo">
+            <a href="event-detail.php"><img src="img/client2.svg" alt="" class="event-client-logo"></a>
           </div>
           <div class="event-box2">
             <div class="event-info">
-              <h3>Exposure Math - Capture Any Photography Genre</h3>
+              <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
               <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
             </div>
           </div>
@@ -339,20 +345,22 @@
             </div>
           </div>
           <div class="event-box5">
+            <button type="button" class="build-stand-btn evnt-list-btn" onclick="openNav1()">Build Stand With TSS</button>
             <a href="event-detail.php">
             <button type="button" class="main-home-btn evnt-list-btn">
               View More
             </button>
           </a>
+         
           </div>
         </div>
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">
-              <img src="img/client1.svg" alt="" class="event-client-logo">
+            <a href="event-detail.php"><img src="img/client1.svg" alt="" class="event-client-logo"></a>
           </div>
           <div class="event-box2">
             <div class="event-info">
-              <h3>Exposure Math - Capture Any Photography Genre</h3>
+              <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
               <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
             </div>
           </div>
@@ -369,21 +377,23 @@
             </div>
           </div>
           <div class="event-box5">
+            <button type="button" class="build-stand-btn evnt-list-btn" onclick="openNav1()">Build Stand With TSS</button>
             <a href="event-detail.php">
             <button type="button" class="main-home-btn evnt-list-btn">
               View More
             </button>
           </a>
+         
           </div>
         </div>
 
         <div class="event-div aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
           <div class="event-box1">
-              <img src="img/client2.svg" alt="" class="event-client-logo">
+            <a href="event-detail.php"><img src="img/client2.svg" alt="" class="event-client-logo"></a>
           </div>
           <div class="event-box2">
             <div class="event-info">
-              <h3>Exposure Math - Capture Any Photography Genre</h3>
+              <h3><a href="event-detail.php">Exposure Math - Capture Any Photography Genre</a></h3>
               <h5><img src="img/location.svg" alt="">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016</h5>
             </div>
           </div>
@@ -400,11 +410,13 @@
             </div>
           </div>
           <div class="event-box5">
+            <button type="button" class="build-stand-btn evnt-list-btn" onclick="openNav1()">Build Stand With TSS</button>
             <a href="event-detail.php">
             <button type="button" class="main-home-btn evnt-list-btn">
               View More
             </button>
           </a>
+          
           </div>
         </div>
       
@@ -415,7 +427,59 @@
 </section>
 
   
+<div id="mySidenav1" class="sidenav sidenav1">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav1()">&times;</a>
+  <div class="sidenav-center">
+    <h3 class="side-nav-head">Enquiry for Exposure Math - Capture Any Photography Genre 2023</h3>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="input-container">
+          <input placeholder="Enter Event Name" class="input-field" type="text" value="Exposure Math - Capture Any Photography Genre 2023">
+          <label for="input-field" class="input-label">Event Name</label>
+          <span class="input-highlight"></span>
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class="input-container">
+          <input placeholder="Venue" class="input-field" type="text" value="Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Saudi Arabia-560016">
+          <label for="input-field" class="input-label">Venue</label>
+          <span class="input-highlight"></span>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="input-container">
+          <input placeholder="Enter Name" class="input-field" type="text">
+          <label for="input-field" class="input-label">Name</label>
+          <span class="input-highlight"></span>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="input-container">
+          <input placeholder="Contact Number" class="input-field" type="tel">
+          <label for="input-field" class="input-label">Contact Number</label>
+          <span class="input-highlight"></span>
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class="input-container">
+          <input placeholder="Email Address" class="input-field" type="email">
+          <label for="input-field" class="input-label">Email Address</label>
+          <span class="input-highlight"></span>
+        </div>
+      </div>
 
+
+      <div class="col-lg-12">
+        <div class="d-flex justify-content-center">
+          <button type="button" class="enqueiry-submit-button">
+            Submit
+          </button>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <?php include 'footer.php';?>
 
   <script src="https://kit.fontawesome.com/16b0815225.js" crossorigin="anonymous"></script>
@@ -709,6 +773,19 @@ function removeAllChildren(parent) {
       $('#hidden_div').show();
     }
   })
+</script>
+<script>
+  function openNav1() {
+    document.getElementById("mySidenav1").style.width = "100%";
+    document.getElementById("main1").style.marginLeft = "100%";
+    document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+  }
+
+  function closeNav1() {
+    document.getElementById("mySidenav1").style.width = "0";
+    document.getElementById("main1").style.marginLeft = "0";
+    document.body.style.backgroundColor = "white";
+  }
 </script>
 </body>
 

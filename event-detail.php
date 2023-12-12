@@ -69,26 +69,7 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="left-category-box aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <h5 class="category-sub-head">Countries</h5>
-            <ul class="tag-lists">
-              <li>India</li>
-              <li>USA</li>
-              <li>KSA</li>
-              <li>UK</li>
-              <li>Germany</li>
-            </ul>
-            <h5 class="category-sub-head">Industries</h5>
-            <ul class="tag-lists mb-2">
-              <li>IT & Technology</li>
-              <li>Education & Training</li>
-              <li>Entertainment</li>
-              <li>Construction</li>
-             
-              
-            </ul>
-          </div>
-          <div class="left-category-box aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <h5 class="category-sub-head">Recent Events</h5>
+            <h5 class="category-sub-head">Upcoming Events</h5>
             <a href="#">
             <div class="row d-flex align-items-center mt-3">
               <div class="col-lg-5">
@@ -159,8 +140,48 @@
                 </div>
               </div>
             </div></a>
-
-
+            <a href="#">
+            <div class="row d-flex align-items-center mt-3">
+              <div class="col-lg-5">
+                <div class="rec-artcls">
+                  <img src="img/client3.svg" alt="" class="img-fluid">
+                </div>
+              </div>
+              <div class="col-lg-7 ps-md-0">
+                <div class="rec-artcls-dtls">
+                  <h4>Navigation the future of a Web Devolvement...</h4>
+                  <h6>4 MARCH, 2022</h6>
+                </div>
+              </div>
+            </div></a>
+            <a href="#">
+            <div class="row d-flex align-items-center mt-3">
+              <div class="col-lg-5">
+                <div class="rec-artcls">
+                  <img src="img/client1.svg" alt="" class="img-fluid">
+                </div>
+              </div>
+              <div class="col-lg-7 ps-md-0">
+                <div class="rec-artcls-dtls">
+                  <h4>Navigation the future of a Web Devolvement...</h4>
+                  <h6>4 MARCH, 2022</h6>
+                </div>
+              </div>
+            </div></a>
+            <a href="#">
+            <div class="row d-flex align-items-center mt-3">
+              <div class="col-lg-5">
+                <div class="rec-artcls">
+                  <img src="img/client2.svg" alt="" class="img-fluid">
+                </div>
+              </div>
+              <div class="col-lg-7 ps-md-0">
+                <div class="rec-artcls-dtls">
+                  <h4>Navigation the future of a Web Devolvement...</h4>
+                  <h6>4 MARCH, 2022</h6>
+                </div>
+              </div>
+            </div></a>
           </div>
       
         </div>
@@ -173,7 +194,7 @@
                     <img src="img/client1.svg" alt="">
                   </div>
                   <h5>Exposure Math - Capture Any Photography Genre 2023</h5>
-    
+                  <h3>Industry : <span>IT & Technology</span></h3>
                 </div>
               </div>
               <div class="col-lg-4">

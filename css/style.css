@@ -453,8 +453,14 @@ a {
 }
 
 .white-btn:hover .btn-svg-icon {
-    stroke: black;
+    stroke: #222;
     transition: .5s;
+    position: relative;
+    z-index: 1;
+}
+
+.white-btn:hover .btn-svg-icon path{
+    stroke-width: 1.3px;
 }
 
 .main-home-btn {
@@ -1648,7 +1654,7 @@ footer .nav-section-2 li {
 
 .counter-circle-2:hover h4 {
     color: #fff;
-    transition: 1s;
+    /* transition: 1s; */
 }
 
 .count-no {
@@ -1656,7 +1662,7 @@ footer .nav-section-2 li {
     font-size: 40px;
     font-weight: 700;
     margin: 0;
-    transition: 1s;
+    /* transition: 1s; */
 }
 
 .counter-data {
@@ -1907,13 +1913,20 @@ footer .nav-section-2 li {
 
 .srvc-btn {
     background-color: white;
-    height: 45px;
+    height: 40px;
     border: none;
     border-radius: 50px;
     font-size: 15px;
     font-weight: 600;
     padding: 0px 20px;
     margin-top: 10px;
+    transition: .5s;
+}
+
+.srvc-btn:hover{
+    background: linear-gradient(90deg, #DF2818 0%, #EB5D2B 75%, #F27935 100%);
+    color: white;
+    transition: .5s;
 }
 
 .srvc-bt span {
@@ -2323,11 +2336,38 @@ footer .nav-section-2 li {
 }
 
 .positions-btn {
-    height: 45px;
-    padding: 0px 25px;
+    height: 38px;
+    padding: 0px 30px;
+    font-size: 15px;
     border: none;
     border-radius: 50px;
     font-weight: 600;
+}
+
+.positions-btn.read-more:hover{
+    background: linear-gradient(90deg, #E02B19 0%, #F06E31 100%);
+    color: white;
+}
+
+.positions-btn.apply{
+    position: relative;
+    transition: 1s;
+}
+
+.positions-btn.apply:after {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 10%);
+    transition: 1s;
+}
+
+.positions-btn.apply:hover::after{
+    width: 100%;
+    transition: 1s;
 }
 
 .read-more {
@@ -2357,7 +2397,7 @@ footer .nav-section-2 li {
 }
 
 .job-title {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 600;
     margin: 0;
     text-align: left;
@@ -3994,6 +4034,7 @@ margin-top: 5px;
 .career-detail-main-div{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .container__img-holder {
@@ -4843,10 +4884,10 @@ color: #fff !important;
 
 .footer-map .egypt{
     position: absolute;
-    top: 24px;
-    left: 44.5%;
-    width: 62px;
-    height: 62px;
+    top: 25px;
+    left: 45%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4856,8 +4897,8 @@ color: #fff !important;
     position: absolute;
     top: 10%;
     left: 56.5%;
-    width: 62px;
-    height: 62px;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4866,9 +4907,20 @@ color: #fff !important;
 .footer-map .oman{
     position: absolute;
     top: 21.5%;
-    left: 64%;
-    width: 62px;
-    height: 62px;
+    left: 64.5%;
+    width: 58px;
+    height: 58px;
+    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.footer-map .kuwait{
+    position: absolute;
+    top: 69.3%;
+    left: 64.5%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4876,10 +4928,10 @@ color: #fff !important;
 
 .footer-map .dammam{
     position: absolute;
-    top: 47.5%;
-    left: 63.5%;
-    width: 62px;
-    height: 62px;
+    top: 45%;
+    left: 68%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4887,10 +4939,10 @@ color: #fff !important;
 
 .footer-map .bahrain{
     position: absolute;
-    top: 74%;
-    left: 56.5%;
-    width: 62px;
-    height: 62px;
+    top: 77%;
+    left: 53.2%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4898,20 +4950,20 @@ color: #fff !important;
 
 .footer-map .dubai{
     position: absolute;
-    top: 60%;
-    left: 43%;
-    width: 62px;
-    height: 62px;
+    top: 59%;
+    left: 43.1%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
 }
 .footer-map .qatar{
     position: absolute;
-    top: 47%;
-    left: 33%;
-    width: 62px;
-    height: 62px;
+    top: 46.5%;
+    left: 33.3%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4920,9 +4972,9 @@ color: #fff !important;
 .footer-map .jeddah{
     position: absolute;
     top: 28%;
-    left: 40%;
-    width: 62px;
-    height: 62px;
+    left: 40.4%;
+    width: 58px;
+    height: 58px;
     background-color: transparent;
     border-radius: 50px;
     cursor: pointer;
@@ -4972,13 +5024,19 @@ color: #fff !important;
     transition: 1.5s;
 }
 
-.footer-map .dammam:hover .loc-tooltip{
+.footer-map .kuwait:hover .loc-tooltip{
     bottom: 0px;
     opacity: 1;
     z-index: 1;
     transition: 1.5s;
 }
 
+.footer-map .dammam:hover .loc-tooltip{
+    bottom: 0px;
+    opacity: 1;
+    z-index: 1;
+    transition: 1.5s;
+}
 .footer-map .bahrain:hover .loc-tooltip{
     bottom: 0px;
     opacity: 1;
@@ -5005,4 +5063,67 @@ color: #fff !important;
     opacity: 1;
     z-index: 1;
     transition: 1s;
+}
+
+.client-detail-div h3{
+    font-weight: 500;
+    font-size: 17px;
+    color: #999999;
+}
+
+.client-detail-div h3 span{
+    color: #212529;
+    margin-left: 3px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.sm-event-mt .event-div .event-box1{
+    width: 12%;
+}
+
+.sm-event-mt .event-div .event-box2{
+    width: 35%;
+}
+
+.sm-event-mt .event-div .event-box5{
+    width: 28%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.sm-event-mt .evnt-list-btn{
+    height: 35px !important;
+    padding: 0px 15px !important;
+    font-size: 13px !important;
+}
+
+.build-stand-btn{
+    background-color: white;
+    background-image: none;
+    color: #e2331c;
+    font-weight: 600;
+    border: 1px solid #e2331c;
+    text-transform: uppercase;
+    border-radius: 35px;
+    transition: 1s;
+    position: relative;
+    overflow: hidden;
+}
+
+.build-stand-btn:hover{
+    color: white !important;
+    background: linear-gradient(90deg, #DF2818 0%, #EB5D2B 75%, #F27935 100%) !important;
+    transition: 1s;
+}
+
+.country-drop li{
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.country-drop li a{
+    padding: 0.25rem 1rem;
 }
