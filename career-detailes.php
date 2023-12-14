@@ -140,7 +140,7 @@
         <div class="main-forms">
           <input type="name" class="form-control" placeholder="Total Work Experience">
         </div>
-        <div class="main-forms">
+        <div class="main-forms txtarea-placeholder">
           <textarea name="" id="" cols="30" rows="10" placeholder="Your Key Skills"></textarea>
         </div>
         <div class="main-forms">
@@ -160,8 +160,8 @@
             <option value="4">Please Select Your Basic Education</option>
           </select>
         </div>
-        <div class="main-forms">
-          <textarea name="" id="" cols="30" rows="10" placeholder="Your Key Skills"></textarea>
+        <div class="main-forms txtarea-placeholder">
+          <textarea name="" id="" cols="30" rows="10" placeholder="Please Enter Your Specialisation"></textarea>
         </div>
         <h5 class="form-head">General</h5>
         <div class="main-forms">
