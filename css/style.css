@@ -1838,7 +1838,7 @@ footer .nav-section-2 li {
 }
 
 .servce-height-1 img {
-    height: 450px;
+    height: 400px;
     width: 100%;
     object-fit: cover;
     transform: scale(1);
@@ -1855,7 +1855,7 @@ footer .nav-section-2 li {
 }
 
 .servce-height-2 img {
-    height: 300px;
+    height: 320px;
     width: 100%;
     object-fit: cover;
     transform: scale(1);
@@ -5129,4 +5129,18 @@ color: #fff !important;
 }
 .txtarea-placeholder textarea::placeholder{
     color: #6c757d !important;
+}
+
+.service-list-boxes{
+    display: block;
+    columns: 4;
+    gap: 30px;
+    padding: 0rem;
+    margin: 0 auto;
+}
+
+.service-list-boxes .service-list-box{
+    display: grid;
+    page-break-inside: avoid;
+    margin-bottom: 40px;
 }
