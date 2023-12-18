@@ -27,7 +27,9 @@
 
   <section class="main-home">
     <div class="background-video">
-
+      <video loop muted autoplay poster="img/video/homeee1.mp4" class="fullscreen-bg__video">
+        <source src="img/video/banner.mp4" type="video/mp4">
+      </video>
     <?php include 'header.php';?>
 
       <div class="container">
