@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <link rel="stylesheet" href="css/aos.css">
   <link rel="stylesheet" href="css/style.css">
-
+  <script src="js/jquery.min.js"></script>
 </head>
 
 <body>
@@ -28,6 +28,7 @@
   <div class="inner-banner">
     <div class="banner-overlay">
       <?php include 'header.php';?>
+      <?php include 'dark-mode.php';?>
       <div class="inner-banner-center">
         <h2 class="banner-head">We Know the Middle <br>
           East Better</h2>
@@ -187,7 +188,7 @@
         </div>
         <div class="col-md-9">
           <div class="event-catogery-box  aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
-            <div class="row">
+            <div class="row gx-0">
               <div class="col-lg-8 d-flex align-items-center">
                 <div class="client-detail-div">
                   <div class="detail-cl-logo">
@@ -376,9 +377,9 @@
 
   <script src="https://kit.fontawesome.com/16b0815225.js" crossorigin="anonymous"></script>
   <script src="js/bootstrap.bundle.min.js"></script>
-  <script src="js/jquery.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/aos.js"></script>
+  <script src="js/script.js"></script>
   <script>
     AOS.init({
       disable: 'mobile'

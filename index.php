@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <link rel="stylesheet" href="css/aos.css">
   <link rel="stylesheet" href="css/style.css">
-
+  <script src="js/jquery.min.js"></script>
 </head>
 
 <body>
@@ -26,6 +26,7 @@
   <!-- Preloader -->
 
   <section class="main-home">
+    <?php include 'dark-mode.php';?>
     <div class="background-video">
       <video loop muted autoplay poster="img/video/homeee1.mp4" class="fullscreen-bg__video">
         <source src="img/video/banner.mp4" type="video/mp4">
@@ -804,9 +805,9 @@
 
   <script src="https://kit.fontawesome.com/16b0815225.js" crossorigin="anonymous"></script>
   <script src="js/bootstrap.bundle.min.js"></script>
-  <script src="js/jquery.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/aos.js"></script>
+  <script src="js/script.js"></script>
   <script>
       AOS.init({disable: 'mobile'});
   </script>

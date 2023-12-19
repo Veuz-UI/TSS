@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="css/owl.theme.default.min.css">
   <link rel="stylesheet" href="css/aos.css">
   <link rel="stylesheet" href="css/style.css">
-
+  <script src="js/jquery.min.js"></script>
 </head>
 
 <body>
@@ -28,6 +28,7 @@
   <div class="inner-banner">
     <div class="banner-overlay">
     <?php include 'header.php';?>
+    <?php include 'dark-mode.php';?>
     <div class="inner-banner-center">
         <h2 class="banner-head">We Know the Middle <br>
           East Better</h2>
@@ -81,7 +82,7 @@
                 
               </h2>
               <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body main-accn-body">
                   <div class="calendar-container">
                     <div class="calendar-month-arrow-container">
                       <div class="calendar-month-year-container">
@@ -113,7 +114,7 @@
                 </button>
               </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body main-accn-body">
                   <div class="form-check event-chckbox">
                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                     <label class="form-check-label event-checkbox-cntnt" for="flexCheckDefault">
@@ -157,7 +158,7 @@
                 </button>
               </h2>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
+                <div class="accordion-body main-accn-body">
                   <div class="form-check event-chckbox">
                     <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault5">
                     <label class="form-check-label event-checkbox-cntnt" for="flexCheckDefault5">
@@ -484,9 +485,9 @@
 
   <script src="https://kit.fontawesome.com/16b0815225.js" crossorigin="anonymous"></script>
   <script src="js/bootstrap.bundle.min.js"></script>
-  <script src="js/jquery.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/aos.js"></script>
+  <script src="js/script.js"></script>
   <script>
     AOS.init({
       disable: 'mobile'
