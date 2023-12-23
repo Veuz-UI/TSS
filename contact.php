@@ -66,78 +66,7 @@
   <p class="main-para dark text-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
     You've come to the right place to discuss how TSS can help you achieve your advertisement goals. Complete the form below, and we'll be in touch to discuss your project. Looking to <br> join our team?  Check out our career opportunities
   </p>
-  <!-- <div class="container">
-    <div class="row mt-4">
-      <div class="col-lg-4  aos-animate" data-aos="fade-up" data-aos-duration="1000">
-        <div class="talk-box-contct">
-          <h2 class="enquery-head">New Enquiry</h2>
-          <p class="main-para text-center">Sales And Marketing Team</p>
-          <hr class="contact-box-border">
-          <h4 class="mt-4">Sales And Marketing Team</h4>
-          <h6>Opening Hours</h6>
-          <div class="d-flex justify-content-center mt-3">
-            <div class="d-flex align-items-center">
-              <img src="img/time.svg" alt="">
-              <h3 class="enq-time">09:00 - 18:00 GMT</h3>
-            </div>
-            <div class="d-flex ms-3">
-              <img src="img/phone-call.svg" alt="">
-              <h3 class="enq-time">+966543000619</h3>
-            </div>
-          </div>
-          <div class="col-lg-12 text-center mt-40">
-            <a href="#contact-form"><button type="button" class="main-btn">
-              Applay Now
-            </button>
-          </a>
-          </div>
-        </div>
-        
-      </div>
-      <div class="col-lg-8  aos-animate" data-aos="fade-up" data-aos-duration="1000">
-        <div class="talk-box-contct">
-          <h2 class="enquery-head">Existing Customer</h2>
-          <p class="main-para text-center">Speak to one of our Account Managers or Support Team</p>
-          <hr class="contact-box-border">
-          <div class="row mt-4">
-            <div class="col-lg-6">
-              <h4>Account Managers</h4>
-          <h6>Opening Hours</h6>
-          <div class="d-flex justify-content-center mt-3">
-            <div class="d-flex align-items-center">
-              <img src="img/time.svg" alt="">
-              <h3 class="enq-time">09:00 - 18:00 GMT</h3>
-            </div>
-            <div class="d-flex ms-3">
-              <img src="img/phone-call.svg" alt="">
-              <h3 class="enq-time">+966543000619</h3>
-            </div>
-          </div>
-            </div>
-            <div class="col-lg-6 cntct-brdr-left">
-              <h4>Helpdesk Team</h4>
-          <h6>Opening Hours</h6>
-          <div class="d-flex justify-content-center mt-3">
-            <div class="d-flex align-items-center">
-              <img src="img/time.svg" alt="">
-              <h3 class="enq-time">09:00 - 18:00 GMT</h3>
-            </div>
-            <div class="d-flex ms-3">
-              <img src="img/phone-call.svg" alt="">
-              <h3 class="enq-time">+966543000619</h3>
-            </div>
-          </div>
-            </div>
-          </div>
-          <div class="col-lg-12 text-center mt-40">
-            <button type="button" class="main-btn">
-              Email Account Managers
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
+s
 
   <div id="contact-form">
     <div class="container">

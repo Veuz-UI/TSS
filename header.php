@@ -36,20 +36,21 @@
                 <li class="nav-item">
                   <a class="nav-link" href="contact.php">Contact</a>
                 </li>
+                <ul class="nav-section-2 header-nav2 quick-contact nav-links d-flex">
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                      data-bs-toggle="dropdown" aria-expanded="false">
+                      Quick Contact
+                    </a>
+                    <ul class="dropdown-menu header-contacts" aria-labelledby="navbarDropdownMenuLink">
+                      <li><a class="dropdown-item" href="tel:+966 920000619"><span><i class="fas fa-phone-alt"></i></span>+966 920000619</a></li>
+                      <li><a class="dropdown-item" href="https://wa.me/+966 920000619>"><span><i class="fab fa-whatsapp"></i></span>+966 920000619</a></li>
+                      <li><a class="dropdown-item" href="mailto:info@tss-adv.com"><span><i class="far fa-envelope"></i></span>info@tss-adv.com</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </ul>
-              <ul class="nav-section-2 header-nav2 nav-links d-flex">
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                    data-bs-toggle="dropdown" aria-expanded="false">
-                    Quick Contact
-                  </a>
-                  <ul class="dropdown-menu header-contacts" aria-labelledby="navbarDropdownMenuLink">
-                    <li><a class="dropdown-item" href="tel:+966 920000619"><span><i class="fas fa-phone-alt"></i></span>+966 920000619</a></li>
-                    <li><a class="dropdown-item" href="https://wa.me/+966 920000619>"><span><i class="fab fa-whatsapp"></i></span>+966 920000619</a></li>
-                    <li><a class="dropdown-item" href="mailto:info@tss-adv.com"><span><i class="far fa-envelope"></i></span>info@tss-adv.com</a></li>
-                  </ul>
-                </li>
-              </ul>
+              
               <ul class="nav-section-2 header-nav2 nav-links d-flex">
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -68,7 +69,7 @@
                   </a>
                 </li>
               </ul>
-              <button type="button" class="main-btn" onclick="openNav()">
+              <button type="button" class="main-btn resp-btn" onclick="openNav()">
                 Business Enquiry
               </button>
 
