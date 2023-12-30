@@ -66,7 +66,7 @@
   <p class="main-para dark text-center aos-animate" data-aos="fade-up" data-aos-duration="1000">
     You've come to the right place to discuss how TSS can help you achieve your advertisement goals. Complete the form below, and we'll be in touch to discuss your project. Looking to <br> join our team?  Check out our career opportunities
   </p>
-s
+
 
   <div id="contact-form">
     <div class="container">
