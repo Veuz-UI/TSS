@@ -3,7 +3,7 @@
           <div class="d-flex justify-content-between w-100">
             <div class="mob-nav">
               <a class="navbar-brand" href="#">
-                <img src="img/tss-logo.png" alt="">
+                <img src="img/tss-logo.png" alt="" class="nav-logo">
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

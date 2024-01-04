@@ -5430,3 +5430,15 @@ color: #fff !important;
     border: none !important;
     margin: 0px !important;
   }
+  @media screen and (max-width: 1024px) {
+    .nav-logo{
+        width: 110px;
+    }
+    .nav-links li a {
+        font-size: 11px;
+        margin-left: 25px;
+    }
+    .nav-section-2{
+        margin: 0px 20px;
+    }
+  }
